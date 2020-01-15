@@ -13,7 +13,7 @@ class Flatten(nn.Module):
         return x.view(x.size(0), -1)
 
 class Model(nn.Module):
-    def __init__(self, num_class, num_segments, representation, 
+    def __init__(self, num_class, num_segments, representation,
                  base_model='resnet152'):
         super(Model, self).__init__()
         self._representation = representation
@@ -37,7 +37,7 @@ Initializing model:
 
         if self._representation == 'mv':
             setattr(self.base_model, 'conv1',
-                    nn.Conv2d(2, 64, 
+                    nn.Conv2d(2, 64,
                               kernel_size=(7, 7),
                               stride=(2, 2),
                               padding=(3, 3),

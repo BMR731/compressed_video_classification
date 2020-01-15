@@ -8,8 +8,8 @@ import torch.nn.parallel
 import torch.optim
 import torchvision
 
-from dataset import CoviarDataSet
-from model import Model
+from conv3d.dataset import CoviarDataSet
+from coviar.model import Model
 from transforms import GroupCenterCrop
 from transforms import GroupOverSample
 from transforms import GroupScale

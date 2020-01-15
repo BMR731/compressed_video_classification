@@ -9,11 +9,12 @@ import torch.backends.cudnn as cudnn
 import torch.nn.parallel
 import torchvision
 
-from dataset import CoviarDataSet
-from model import Model
+from conv2d.dataset import CoviarDataSet
+from origin.model import Model
 from train_options import parser
 from transforms import GroupCenterCrop
 from transforms import GroupScale
+from torch.utils.tensorboard import SummaryWriter
 
 SAVE_FREQ = 40
 PRINT_FREQ = 20
@@ -23,6 +24,9 @@ best_prec1 = 0
 def main():
     global args
     global best_prec1
+    global WRITER
+    global devices
+    global description
     args = parser.parse_args()
 
     print('Training arguments:')
@@ -34,44 +38,40 @@ def main():
     elif args.data_name == 'hmdb51':
         num_class = 51
     else:
-        raise ValueError('Unknown dataset '+ args.data_name)
+        raise ValueError('Unknown dataset ' + args.data_name)
 
+    devices = [torch.device("cuda:%d" % device) for device in args.gpus]
     model = Model(num_class, args.num_segments, args.representation,
                   base_model=args.arch)
     print(model)
 
+    description = '%s_bt_%d_seg_%d_%s' % (args.arch, args.batch_size, args.num_segments, "debug_my_dataset")
+    log_name = './log/%s' % description
+    WRITER = SummaryWriter(log_name)
+
     train_loader = torch.utils.data.DataLoader(
         CoviarDataSet(
             args.data_root,
-            args.data_name,
             video_list=args.train_list,
             num_segments=args.num_segments,
-            representation=args.representation,
-            transform=model.get_augmentation(),
             is_train=True,
-            accumulate=(not args.no_accumulation),
-            ),
+            accumulate=True,
+        ),
         batch_size=args.batch_size, shuffle=True,
         num_workers=args.workers, pin_memory=True)
 
     val_loader = torch.utils.data.DataLoader(
         CoviarDataSet(
             args.data_root,
-            args.data_name,
             video_list=args.test_list,
             num_segments=args.num_segments,
-            representation=args.representation,
-            transform=torchvision.transforms.Compose([
-                GroupScale(int(model.scale_size)),
-                GroupCenterCrop(model.crop_size),
-                ]),
             is_train=False,
-            accumulate=(not args.no_accumulation),
-            ),
+            accumulate=True,
+        ),
         batch_size=args.batch_size, shuffle=False,
         num_workers=args.workers, pin_memory=True)
 
-    model = torch.nn.DataParallel(model, device_ids=args.gpus).cuda()
+    model = torch.nn.DataParallel(model, device_ids=args.gpus).to(devices[0])
     cudnn.benchmark = True
 
     params_dict = dict(model.named_parameters())
@@ -80,8 +80,8 @@ def main():
         decay_mult = 0.0 if 'bias' in key else 1.0
 
         if ('module.base_model.conv1' in key
-                or 'module.base_model.bn1' in key
-                or 'data_bn' in key) and args.representation in ['mv', 'residual']:
+            or 'module.base_model.bn1' in key
+            or 'data_bn' in key) and args.representation in ['mv', 'residual']:
             lr_mult = 0.1
         elif '.fc.' in key:
             lr_mult = 1.0
@@ -94,16 +94,17 @@ def main():
         params,
         weight_decay=args.weight_decay,
         eps=0.001)
-    criterion = torch.nn.CrossEntropyLoss().cuda()
+    criterion = torch.nn.CrossEntropyLoss().to(devices[0])
 
     for epoch in range(args.epochs):
         cur_lr = adjust_learning_rate(optimizer, epoch, args.lr_steps, args.lr_decay)
-
-        train(train_loader, model, criterion, optimizer, epoch, cur_lr)
+        WRITER.add_scalar('Lr/epoch', cur_lr, epoch)
+        loss_train = train(train_loader, model, criterion, optimizer, epoch, cur_lr)
 
         if epoch % args.eval_freq == 0 or epoch == args.epochs - 1:
-            prec1 = validate(val_loader, model, criterion)
-
+            prec1, prec5, loss_val = validate(val_loader, model, criterion)
+            WRITER.add_scalars('Accuracy/epoch', {'prec1': prec1, 'prec5': prec5}, epoch)
+            WRITER.add_scalars('Classification Loss/epoch', {'Train': loss_train, 'Val': loss_val}, epoch)
             is_best = prec1 > best_prec1
             best_prec1 = max(prec1, best_prec1)
             if is_best or epoch % SAVE_FREQ == 0:
@@ -129,24 +130,23 @@ def train(train_loader, model, criterion, optimizer, epoch, cur_lr):
 
     end = time.time()
 
-    for i, (input, target) in enumerate(train_loader):
-
+    for i, (inputs, target) in enumerate(train_loader):
+        input,_ = inputs
         data_time.update(time.time() - end)
 
-        target = target.cuda(async=True)
-        input_var = torch.autograd.Variable(input)
-        target_var = torch.autograd.Variable(target)
+        target = target.to(devices[0])
+        input_var = input.to(devices[0])
 
         output = model(input_var)
         output = output.view((-1, args.num_segments) + output.size()[1:])
         output = torch.mean(output, dim=1)
 
-        loss = criterion(output, target_var)
+        loss = criterion(output, target)
 
         prec1, prec5 = accuracy(output.data, target, topk=(1, 5))
-        losses.update(loss.data[0], input.size(0))
-        top1.update(prec1[0], input.size(0))
-        top5.update(prec5[0], input.size(0))
+        losses.update(loss.item(), input.size(0))
+        top1.update(prec1.item(), input.size(0))
+        top5.update(prec5.item(), input.size(0))
 
         optimizer.zero_grad()
 
@@ -163,13 +163,16 @@ def train(train_loader, model, criterion, optimizer, epoch, cur_lr):
                    'Loss {loss.val:.4f} ({loss.avg:.4f})\t'
                    'Prec@1 {top1.val:.3f} ({top1.avg:.3f})\t'
                    'Prec@5 {top5.val:.3f} ({top5.avg:.3f})'.format(
-                       epoch, i, len(train_loader),
-                       batch_time=batch_time,
-                       data_time=data_time,
-                       loss=losses,
-                       top1=top1,
-                       top5=top5,
-                       lr=cur_lr)))
+                epoch, i, len(train_loader),
+                batch_time=batch_time,
+                data_time=data_time,
+                loss=losses,
+                top1=top1,
+                top5=top5,
+                lr=cur_lr)))
+
+    return losses.avg
+
 
 def validate(val_loader, model, criterion):
     batch_time = AverageMeter()
@@ -180,21 +183,20 @@ def validate(val_loader, model, criterion):
     model.eval()
 
     end = time.time()
-    for i, (input, target) in enumerate(val_loader):
-        target = target.cuda(async=True)
-        input_var = torch.autograd.Variable(input, volatile=True)
-        target_var = torch.autograd.Variable(target, volatile=True)
-
+    for i, (inputs, target) in enumerate(val_loader):
+        input,_ = inputs
+        target = target.to(devices[0])
+        input_var = input.to(devices[0])
         output = model(input_var)
         output = output.view((-1, args.num_segments) + output.size()[1:])
         output = torch.mean(output, dim=1)
-        loss = criterion(output, target_var)
+        loss = criterion(output, target)
 
         prec1, prec5 = accuracy(output.data, target, topk=(1, 5))
 
-        losses.update(loss.data[0], input.size(0))
-        top1.update(prec1[0], input.size(0))
-        top5.update(prec5[0], input.size(0))
+        losses.update(loss.item(), input.size(0))
+        top1.update(prec1.item(), input.size(0))
+        top5.update(prec5.item(), input.size(0))
 
         batch_time.update(time.time() - end)
         end = time.time()
@@ -205,28 +207,28 @@ def validate(val_loader, model, criterion):
                    'Loss {loss.val:.4f} ({loss.avg:.4f})\t'
                    'Prec@1 {top1.val:.3f} ({top1.avg:.3f})\t'
                    'Prec@5 {top5.val:.3f} ({top5.avg:.3f})'.format(
-                       i, len(val_loader),
-                       batch_time=batch_time,
-                       loss=losses,
-                       top1=top1,
-                       top5=top5)))
+                i, len(val_loader),
+                batch_time=batch_time,
+                loss=losses,
+                top1=top1,
+                top5=top5)))
 
     print(('Testing Results: Prec@1 {top1.avg:.3f} Prec@5 {top5.avg:.3f} Loss {loss.avg:.5f}'
            .format(top1=top1, top5=top5, loss=losses)))
 
-    return top1.avg
+    return top1.avg, top5.avg, losses.avg
 
 
 def save_checkpoint(state, is_best, filename):
-    filename = '_'.join((args.model_prefix, args.representation.lower(), filename))
+    filename = '_'.join((description, filename))
     torch.save(state, filename)
     if is_best:
-        best_name = '_'.join((args.model_prefix, args.representation.lower(), 'model_best.pth.tar'))
+        best_name = '_'.join((description, '_best.pth.tar'))
         shutil.copyfile(filename, best_name)
-
 
 class AverageMeter(object):
     """Computes and stores the average and current value"""
+
     def __init__(self):
         self.reset()
 

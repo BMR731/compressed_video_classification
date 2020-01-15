@@ -24,7 +24,7 @@ do
 		outname="${outname%.*}.mp4"
 
 		mkdir -p "$(dirname "$outname")"
-		ffmpeg -i ${inname} -vf scale=340:256,setsar=1:1 -q:v 1 -c:v mpeg4 -f rawvideo ${outname}
+		/home/sjhu/env/ffmpeg-4.2-amd64-static/ffmpeg -i ${inname} -vf scale=340:256,setsar=1:1 -q:v 1 -c:v mpeg4 -f rawvideo ${outname}
 
 	done
 done
