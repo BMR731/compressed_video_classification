@@ -20,10 +20,10 @@ import torchvision
 
 SAVE_FREQ = 5
 PRINT_FREQ = 20
-ACCUMU_STEPS = 4  # use gradient accumlation to use least memory and more runtime
+ACCUMU_STEPS = 9  # use gradient accumlation to use least memory and more runtime
 loss_min = 1
-CONTINUE_FROM_LAST = False
-LAST_SAVE_PATH = r'bt_80_seg_3_wd_0.000100_only_use_mgc_layer34__best.pth.tar'
+CONTINUE_FROM_LAST = True
+LAST_SAVE_PATH = r'bt_81_seg_6_wd_0.000100_layer234_ls_sgd__best.pth.tar'
 FINETUNE = False
 
 # for visualization
@@ -119,7 +119,7 @@ def main():
         else:
             params += [{'params': [value], 'lr': args.lr * 1, 'decay_mult': decay_mult}]
 
-    optimizer = torch.optim.SGD(params, lr=args.lr, momentum=0.9, weight_decay=args.weight_decay)
+    optimizer = torch.optim.SGD(params, lr=args.lr, momentum=0.9)
     scheduler = WarmStartCosineAnnealingLR(optimizer, args.epochs, 10)
     # optimizer = torch.optim.Adam(params, weight_decay=args.weight_decay, eps=0.001)
     # scheduler = ReduceLROnPlateau(optimizer, mode='max', factor=0.2, patience=20 // args.eval_freq, verbose=True)

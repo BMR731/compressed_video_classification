@@ -9,6 +9,7 @@ class TransformsConfig(object):
         self.iframe_scales = [1, .875, .75]
         self.mv_scales = [1, .875, .75, .66]
         self.input_size = 224
+        self.crop_size = 224
         self.scale_size = self.input_size * 256 // 224
 
 def color_aug(img, random_h=36, random_l=50, random_s=50):
