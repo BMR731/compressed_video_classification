@@ -8,7 +8,7 @@ from train_options import parser
 from torchvision.models.utils import load_state_dict_from_url
 from torch.nn.modules import Conv3d
 import numpy as np
-from backbone.resnet3d import R2Plus1d
+from backbone.r2plus1d import R2Plus1d
 # from train_siamese import DEVICES
 args = parser.parse_args()
 
