@@ -3,7 +3,9 @@ Definition of PyTorch "Dataset" that iterates through compressed videos
 and return compressed representations (I-frames, motion vectors,
 or residuals) for training or testing.
 """
-
+import torch
+import torch.utils.data as data
+import torchvision.models.resnet
 import matplotlib as mpl
 # mpl.use('Agg')
 import matplotlib.pyplot as plt
@@ -13,14 +15,13 @@ import os.path
 import random
 
 import numpy as np
-import torch
-import torch.utils.data as data
-import torchvision.models.resnet
+
 from coviar import get_num_frames
 from coviar import load
 from transforms import *
 import torchvision
-import random
+from utils.sample import random_sample, fix_sample
+
 GOP_SIZE = 12
 
 IFRAME = 0
@@ -43,7 +44,7 @@ def get_seg_range(n, num_segments, seg, representation):
         seg_end = seg_begin + 1
 
     if representation in ['residual', 'mv']:
-        # Exclude the 0-th frame, because it's an I-frmae.
+        # Exclude the 0-th frame, because it's an I-frame.
         return seg_begin + 1, seg_end + 1
 
     return seg_begin, seg_end
@@ -66,8 +67,6 @@ class CoviarDataSet(data.Dataset):
                  video_list,
                  num_segments,
                  is_train,
-                 rgb_transforms,
-                 mv_transforms,
                  accumulate):
 
         self._data_root = data_root
@@ -76,16 +75,26 @@ class CoviarDataSet(data.Dataset):
         self._mv_scales = [1, .875, .75, .66]
         self._input_size = 224
         self._scale_size = self._input_size * 256 // 224
-        self._iframe_transform = rgb_transforms
-        self._mv_transform = mv_transforms
+        self._iframe_transform = torchvision.transforms.Compose(
+            [GroupMultiScaleCrop(self._input_size, self._iframe_scales),
+             GroupRandomHorizontalFlip(is_mv=False)])
+        self._mv_transform = torchvision.transforms.Compose(
+            [GroupMultiScaleCrop(self._input_size, self._mv_scales),
+             GroupRandomHorizontalFlip(is_mv=True)])
+        self._infer_transform = torchvision.transforms.Compose([
+            GroupScale(int(self._scale_size)),
+            GroupCenterCrop(self._input_size),
+        ])
         self._is_train = is_train
         self._accumulate = accumulate
+        ## use kinetic pretrain setting
         self._input_mean = torch.from_numpy(
-            np.array([0.485, 0.456, 0.406]).reshape((1, 3, 1, 1))).float()
+            np.array([0.43216, 0.394666, 0.37645]).reshape((3, 1, 1, 1))).float()
         self._input_std = torch.from_numpy(
-            np.array([0.229, 0.224, 0.225]).reshape((1, 3, 1, 1))).float()
+            np.array([0.22803, 0.22145, 0.216989]).reshape((3, 1, 1, 1))).float()
 
         self._load_list(video_list)
+        self._timescales = [4, 8, 16]
 
     def _load_list(self, video_list):
         self._video_list = []
@@ -130,54 +139,75 @@ class CoviarDataSet(data.Dataset):
         iframes = []
         mvs = []
         for seg in range(self._num_segments):
-
             # for iframe
             if self._is_train:
                 gop_index, gop_pos = self._get_train_frame_index(num_frames, seg, 'iframe')
-                mv_gop_pos = gop_pos + random.randint(1,9)
             else:
                 gop_index, gop_pos = self._get_test_frame_index(num_frames, seg, 'iframe')
-                mv_gop_pos = gop_pos + 3
 
             img = load(video_path, gop_index, gop_pos, IFRAME, self._accumulate)
             if img is None:
                 print('Error: loading video %s failed.' % video_path)
                 img = np.zeros((256, 256, 3))
-            img = color_aug(img)
+            # img = color_aug(img)
             # BGR to RGB. (PyTorch uses RGB according to doc.)
             img = img[..., ::-1]
-
-            # for mv .notice here we should use the same gop_index with iframe
-            mv = load(video_path, gop_index, mv_gop_pos, MV, self._accumulate)
-            if mv is None:
-                print('Error: loading video %s failed.' % video_path)
-                mv = np.zeros((256, 256, 2))
-
-            mv = clip_and_scale(mv, 20)  # scale up the value
-            mv += 128
-            mv = (np.minimum(np.maximum(mv, 0), 255)).astype(np.uint8)
-
             iframes.append(img)
-            mvs.append(mv)
+
+        gop_num = num_frames // GOP_SIZE  # for simple, drop the last gop
+        for gop_idx in range(gop_num):
+            for frame_idx in range(1, GOP_SIZE):
+                mv = load(video_path, gop_idx, frame_idx, MV, self._accumulate)
+                if mv is None:
+                    print('Error: loading video %s failed.' % video_path)
+                    mv = np.zeros((224, 224, 2))
+                mv = clip_and_scale(mv, 20)  # scale up the value
+                mv += 128
+                mv = (np.minimum(np.maximum(mv, 0), 255)).astype(np.uint8)
+                mvs.append(mv)
 
         # preprocess iframe
-        iframes = self._iframe_transform(iframes)
+        iframes = self._iframe_transform(iframes) if self._is_train else self._infer_transform(iframes)
         iframes = np.array(iframes)
-        iframes = np.transpose(iframes, (0, 3, 1, 2))
+        iframes = np.transpose(iframes, (3, 0, 1, 2))
         iframes = torch.from_numpy(iframes).float() / 255.0
         iframes = (iframes - self._input_mean) / self._input_std
 
         # preprocess mv
-        mvs = self._mv_transform(mvs)
-        mvs = np.array(mvs)
-        mvs = np.transpose(mvs, (0, 3, 1, 2))
-        mvs = torch.from_numpy(mvs).float() / 255.0
-        mvs = (mvs - 0.5)
-        # depth , channels, width, height
-        return (iframes, mvs), label
+        # extract multi-scale
+        mv1 = random_sample(mvs, self._num_segments * self._timescales[0]) if self._is_train \
+            else fix_sample(mvs, self._num_segments * self._timescales[0])
+
+        mv2 = random_sample(mvs, self._num_segments * self._timescales[1]) \
+            if self._is_train else fix_sample(mvs, self._num_segments * self._timescales[1])
+
+        mv3 = random_sample(mvs, self._num_segments * self._timescales[2]) \
+            if self._is_train else fix_sample(mvs, self._num_segments * self._timescales[2])
+
+        mv1 = self.process_mv(mv1)
+        mv2 = self.process_mv(mv2)
+        mv3 = self.process_mv(mv3)
+        # channels,depth, width, height
+        assert iframes.shape[1] == self._num_segments, print("iframe shape wrong")
+        assert mv1.shape[1] == self._num_segments * self._timescales[0], print("timesacle-1 shape wrong")
+        assert mv2.shape[1] == self._num_segments * self._timescales[1], print("timescale-2 shape wrong")
+        assert mv3.shape[1] == self._num_segments * self._timescales[2], print("timescale-3 shape wrong")
+        return (iframes, mv1, mv2, mv3), label
+
 
     def __len__(self):
         return len(self._video_list)
+
+    def process_mv(self, mvs):
+        # preprocess mv
+        mvs = self._mv_transform(mvs) if self._is_train else self._infer_transform(mvs)
+        mvs = np.array(mvs)
+        mvs = np.transpose(mvs, (3, 0, 1, 2))
+        mvs = torch.from_numpy(mvs).float() / 255.0
+        mvs = (mvs - 0.5)
+        # channels,depth, width, height
+        return mvs
+
 
 def visualize_mv(mat):
     # Use Hue, Saturation, Value colour model
@@ -192,3 +222,27 @@ def visualize_mv(mat):
     bgr_frame = cv2.cvtColor(hsv, cv2.COLOR_HSV2RGB)
     plt.imshow(bgr_frame)
     plt.show()
+
+
+if __name__ == '__main__':
+    import time
+    start = time.time()
+    train_loader = torch.utils.data.DataLoader(
+        CoviarDataSet(
+            r'/home/sjhu/datasets/UCF-101-mpeg4',
+            video_list=r'/home/sjhu/projects/pytorch-coviar/data/datalists/debug_train.txt',
+            num_segments=10,
+            is_train=True,
+            accumulate=True,
+        ),
+        batch_size=1, shuffle=True,
+        num_workers=8, pin_memory=False)
+
+    for i, (input_pairs, label) in enumerate(train_loader):
+        iframe,mv1,mv2,mv3 = input_pairs
+        # print(iframe.shape)
+        # print(mv1.shape)
+        # print(mv2.shape)
+        # print(mv3.shape)
+    end = time.time()
+    print("cost %f s" % ((end-start)))

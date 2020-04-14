@@ -173,7 +173,7 @@ class CoviarDataSet(data.Dataset):
         iframes = (iframes - self._input_mean) / self._input_std
 
         # preprocess mv
-        mvs = self._iframe_transform(mvs) if self._is_train else self._infer_transform(mvs)
+        mvs = self._mv_transform(mvs) if self._is_train else self._infer_transform(mvs)
         mvs = np.array(mvs)
         mvs = np.transpose(mvs, (3, 0, 1, 2))
         mvs = torch.from_numpy(mvs).float() / 255.0
