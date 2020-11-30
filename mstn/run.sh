@@ -1,0 +1,1 @@
+nohup python -u train.py --data-root /home/sjhu/datasets/kinetics400_mpeg4 --train-list /home/sjhu/datasets/k400_train.txt --test-list /home/sjhu/datasets/k400_val.txt --num-segments 5 --alpha 2 --epochs 200 --batch-size 8 --lr 1e-2 --description 'mstn_k400' --gpus 0 1 2 3 >train_k400.log 2>&1 &

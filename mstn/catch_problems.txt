@@ -1,0 +1,3078 @@
+nohup: 忽略输入
+234583 videos loaded.
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/dying_hair/bZq8DFWy8SM_000388_000398.mp4
+video extract success
+0
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/dying_hair/7UMe0M1Wltk_000496_000506.mp4
+video extract success
+1
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/dying_hair/Gj1EgYj9f6c_000000_000010.mp4
+video extract success
+2
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/dying_hair/k095n_qk1qQ_000427_000437.mp4
+video extract success
+3
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/dying_hair/Ii2cSPve59k_000035_000045.mp4
+video extract success
+4
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/dying_hair/HBcoMvk6Cqk_000228_000238.mp4
+video extract success
+5
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/dying_hair/ViQzASmVO7k_000184_000194.mp4
+video extract success
+6
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/dying_hair/a45Y1OVF5VI_000573_000583.mp4
+video extract success
+7
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/dying_hair/TrcyVW6GLRo_000077_000087.mp4
+video extract success
+8
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/dying_hair/yVif6YvVfII_000076_000086.mp4
+video extract success
+9
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/dying_hair/hxMQIGCu8AY_000327_000337.mp4
+video extract success
+10
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/dying_hair/z6UipzyBQGY_000243_000253.mp4
+video extract success
+11
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/dying_hair/U-AfXgym7Qo_000045_000055.mp4
+video extract success
+12
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/dying_hair/9aJJhfTNMOo_000094_000104.mp4
+video extract success
+13
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/dying_hair/Q-fnD9dm_fM_000099_000109.mp4
+video extract success
+14
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/dying_hair/3bn_8K91PFk_000047_000057.mp4
+video extract success
+15
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/dying_hair/QWRWw4Ger-o_000160_000170.mp4
+video extract success
+16
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/dying_hair/fxg2idGqUWw_000043_000053.mp4
+video extract success
+17
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/dying_hair/rZ4rBCZiUcw_000334_000344.mp4
+video extract success
+18
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/dying_hair/5cGX7mjOD24_000225_000235.mp4
+video extract success
+19
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/dying_hair/SBXsRFhnkoA_000130_000140.mp4
+video extract success
+20
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/dying_hair/e1ZOyGWtw4k_000199_000209.mp4
+video extract success
+21
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/dying_hair/FGcC-XzwH_4_000404_000414.mp4
+video extract success
+22
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/dying_hair/ckDanErReyo_000294_000304.mp4
+video extract success
+23
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/dying_hair/2w-BbpTOJQA_000167_000177.mp4
+video extract success
+24
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/dying_hair/FGQ1lFr5I_A_000243_000253.mp4
+video extract success
+25
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/dying_hair/EXQDnkca8z0_000275_000285.mp4
+video extract success
+26
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/dying_hair/eJax9RJAbhs_000195_000205.mp4
+video extract success
+27
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/dying_hair/Gj71cwgcfbU_000157_000167.mp4
+video extract success
+28
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/dying_hair/6TwVClbhKcc_000118_000128.mp4
+video extract success
+29
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/dying_hair/T7z_JHxyqHI_000156_000166.mp4
+video extract success
+30
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/dying_hair/C6GJauOmD3c_000004_000014.mp4
+video extract success
+31
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/dying_hair/YEEq7X362aw_000412_000422.mp4
+video extract success
+32
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/dying_hair/apXcWqynExI_000060_000070.mp4
+video extract success
+33
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/dying_hair/8u7woLDtpqg_000082_000092.mp4
+video extract success
+34
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/dying_hair/in3Bn71Dnts_000286_000296.mp4
+video extract success
+35
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/dying_hair/ssoKU2_ZMEo_000249_000259.mp4
+video extract success
+36
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/dying_hair/m8o6IVBbzSk_000056_000066.mp4
+video extract success
+37
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/dying_hair/qanDaOBFimc_000238_000248.mp4
+video extract success
+38
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/dying_hair/Fv5vYjTBh7g_000194_000204.mp4
+video extract success
+39
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/dying_hair/faUKMFmmd4o_000299_000309.mp4
+video extract success
+40
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/dying_hair/97HIDkERuzw_000017_000027.mp4
+video extract success
+41
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/dying_hair/4pfEMcuYP5I_000033_000043.mp4
+video extract success
+42
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/dying_hair/i7Cz43yOC4Q_000142_000152.mp4
+video extract success
+43
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/dying_hair/4ojMj2VPiFA_000014_000024.mp4
+video extract success
+44
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/dying_hair/YI4rxAdGxZ4_000057_000067.mp4
+video extract success
+45
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/dying_hair/_2Xbcb-Mq7s_000202_000212.mp4
+video extract success
+46
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/dying_hair/x8a7vycOM80_000182_000192.mp4
+video extract success
+47
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/dying_hair/iOjFFStBoTw_000089_000099.mp4
+video extract success
+48
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/dying_hair/GhAT73zkqJA_000087_000097.mp4
+video extract success
+49
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/dying_hair/edPMjOLll4s_000039_000049.mp4
+video extract success
+50
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/dying_hair/xOW8IRSk6gQ_000173_000183.mp4
+video extract success
+51
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/dying_hair/Z8ve1inEQU8_000108_000118.mp4
+video extract success
+52
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/dying_hair/MHU4_xCE2Ks_000146_000156.mp4
+video extract success
+53
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/dying_hair/ebkBv00Hqg8_000072_000082.mp4
+video extract success
+54
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/dying_hair/5JfyHMb3N-8_000086_000096.mp4
+video extract success
+55
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/dying_hair/R0nG5V0nNtk_000522_000532.mp4
+video extract success
+56
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/dying_hair/Dr8XIopGQuY_000208_000218.mp4
+video extract success
+57
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/dying_hair/TfBSso5ueus_000366_000376.mp4
+video extract success
+58
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/dying_hair/RCMHQdvRp1k_000085_000095.mp4
+video extract success
+59
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/dying_hair/wrEfm8Q5qZs_000124_000134.mp4
+video extract success
+60
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/dying_hair/XpldX5w0uVM_000110_000120.mp4
+video extract success
+61
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/dying_hair/4hNk80dQ-CI_000132_000142.mp4
+video extract success
+62
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/dying_hair/e8Nhxs3VLeg_000113_000123.mp4
+video extract success
+63
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/dying_hair/9v32hWNm0gk_000378_000388.mp4
+video extract success
+64
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/dying_hair/HF6VioWY5uc_000190_000200.mp4
+video extract success
+65
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/dying_hair/uMUD7um10sM_000129_000139.mp4
+video extract success
+66
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/dying_hair/JmzJ37j3rME_000590_000600.mp4
+video extract success
+67
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/dying_hair/QK5v_ugvGfU_000319_000329.mp4
+video extract success
+68
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/dying_hair/m-eJ7vq00Ng_000027_000037.mp4
+video extract success
+69
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/dying_hair/ZcYD63XCYMY_000102_000112.mp4
+video extract success
+70
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/dying_hair/TYCbWqjhuWk_000376_000386.mp4
+video extract success
+71
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/dying_hair/lauw-RNSH9I_000206_000216.mp4
+video extract success
+72
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/dying_hair/tLDmui7KbLc_000302_000312.mp4
+video extract success
+73
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/dying_hair/ZczFklSqH5s_000292_000302.mp4
+video extract success
+74
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/dying_hair/ZlQA8EJJ5To_000154_000164.mp4
+video extract success
+75
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/dying_hair/XZ69HQSuAJA_000081_000091.mp4
+video extract success
+76
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/dying_hair/GjovL4XC-sA_000119_000129.mp4
+video extract success
+77
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/dying_hair/SpsEyWNK7II_000110_000120.mp4
+video extract success
+78
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/dying_hair/0ScxbOKR93k_000151_000161.mp4
+video extract success
+79
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/dying_hair/D1UCgln5Imk_000048_000058.mp4
+video extract success
+80
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/dying_hair/MKXqd8Xnenw_000046_000056.mp4
+video extract success
+81
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/dying_hair/1CKYGiJJ1RA_000229_000239.mp4
+video extract success
+82
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/dying_hair/A4UDN1ruKII_000071_000081.mp4
+video extract success
+83
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/dying_hair/D6c338PSTsg_000233_000243.mp4
+video extract success
+84
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/dying_hair/oOaPxZx__yg_000078_000088.mp4
+video extract success
+85
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/dying_hair/7Bm1cYSQ3bQ_000082_000092.mp4
+video extract success
+86
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/dying_hair/7tDqwfDD6jI_000133_000143.mp4
+video extract success
+87
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/dying_hair/o6GJE0R-cQc_000233_000243.mp4
+video extract success
+88
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/dying_hair/oVi2i2FFCys_000259_000269.mp4
+video extract success
+89
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/dying_hair/odP1RthtVeQ_000185_000195.mp4
+video extract success
+90
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/dying_hair/xf1wnzmeVUs_000131_000141.mp4
+video extract success
+91
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/dying_hair/YJk6m4DjSSU_000041_000051.mp4
+video extract success
+92
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/dying_hair/ryOY1JilL2A_000258_000268.mp4
+video extract success
+93
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/dying_hair/wy-Su8N9pPE_000409_000419.mp4
+video extract success
+94
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/dying_hair/i1M6Xv7Xogs_000156_000166.mp4
+video extract success
+95
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/dying_hair/JrLuBB9pUUk_000068_000078.mp4
+video extract success
+96
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/dying_hair/0OYUEYgqVJk_000298_000308.mp4
+video extract success
+97
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/dying_hair/QF6vUyiDdT0_000116_000126.mp4
+video extract success
+98
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/dying_hair/-d_uc-ryKz8_000181_000191.mp4
+video extract success
+99
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/dying_hair/s7muJbhnVBQ_000282_000292.mp4
+video extract success
+100
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/dying_hair/0j9pyABEzhI_000423_000433.mp4
+video extract success
+101
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/dying_hair/HsiX5pfwCII_000141_000151.mp4
+video extract success
+102
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/dying_hair/P0-9EKOMAIk_000049_000059.mp4
+video extract success
+103
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/dying_hair/POaLW7x-hb8_000000_000010.mp4
+video extract success
+104
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/dying_hair/SmkDPbd_76I_000073_000083.mp4
+video extract success
+105
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/dying_hair/iofdMYfz1qw_000401_000411.mp4
+video extract success
+106
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/dying_hair/N4SDSn-dbjc_000268_000278.mp4
+video extract success
+107
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/dying_hair/Drjw0tq2Y1M_000002_000012.mp4
+video extract success
+108
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/dying_hair/i8ShE37jSY8_000089_000099.mp4
+video extract success
+109
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/dying_hair/u5oZwLhJDRs_000063_000073.mp4
+video extract success
+110
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/dying_hair/m_JxOWjQsus_000197_000207.mp4
+video extract success
+111
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/dying_hair/h45qUo_eJWI_000741_000751.mp4
+video extract success
+112
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/dying_hair/cmo7H9Ah2Qs_000177_000187.mp4
+video extract success
+113
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/dying_hair/Yxu_fWrb2-U_000470_000480.mp4
+video extract success
+114
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/dying_hair/R1CMFtne680_000268_000278.mp4
+video extract success
+115
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/dying_hair/LNzXI2mz97k_000115_000125.mp4
+video extract success
+116
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/dying_hair/72h7nePQX3s_000129_000139.mp4
+video extract success
+117
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/dying_hair/iWFbCJ1447M_000330_000340.mp4
+video extract success
+118
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/dying_hair/WAj4dsPgN7s_000207_000217.mp4
+video extract success
+119
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/dying_hair/q8ov3FCWbUE_000191_000201.mp4
+video extract success
+120
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/dying_hair/0W-Xv2JGGes_000349_000359.mp4
+video extract success
+121
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/dying_hair/8Fsq2snvMR8_000305_000315.mp4
+video extract success
+122
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/dying_hair/o-st_H3Bu10_000671_000681.mp4
+video extract success
+123
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/dying_hair/hUmyXfVhPqs_000152_000162.mp4
+video extract success
+124
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/dying_hair/gOI1G-XZjPw_000000_000010.mp4
+video extract success
+125
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/dying_hair/wsxd5lRJdmU_000001_000011.mp4
+video extract success
+126
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/dying_hair/G6DV_B1oDvM_000472_000482.mp4
+video extract success
+127
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/dying_hair/8J0OH8IhyeQ_000110_000120.mp4
+video extract success
+128
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/dying_hair/G7-Hs8zoiaE_000215_000225.mp4
+video extract success
+129
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/dying_hair/FRgRmsOJjOQ_000319_000329.mp4
+video extract success
+130
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/dying_hair/iz07lnyzK0s_000025_000035.mp4
+video extract success
+131
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/dying_hair/g3ydRTAInCs_000265_000275.mp4
+video extract success
+132
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/dying_hair/15YSFYxbRTA_000716_000726.mp4
+video extract success
+133
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/dying_hair/YLKhcu-6SaM_000226_000236.mp4
+video extract success
+134
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/dying_hair/llJ85HhaxeQ_000196_000206.mp4
+video extract success
+135
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/dying_hair/vZ-ZQIIYbks_000265_000275.mp4
+video extract success
+136
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/dying_hair/KTPJVLvJDho_000258_000268.mp4
+video extract success
+137
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/dying_hair/6Jm6rB2pTqo_000196_000206.mp4
+video extract success
+138
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/dying_hair/476DqT0eCdQ_000184_000194.mp4
+video extract success
+139
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/dying_hair/7xTFMOXrazQ_000278_000288.mp4
+video extract success
+140
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/dying_hair/ZqxdNT8n2Gc_000076_000086.mp4
+video extract success
+141
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/dying_hair/tWnS_LqBPWE_000706_000716.mp4
+video extract success
+142
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/dying_hair/-TmPgEIQh1I_000213_000223.mp4
+video extract success
+143
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/dying_hair/dRJjdC8Yg00_000382_000392.mp4
+video extract success
+144
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/dying_hair/DnHg-JImwqg_000168_000178.mp4
+video extract success
+145
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/dying_hair/Jnye3laGV40_000111_000121.mp4
+video extract success
+146
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/dying_hair/tEh6NNMmmQ4_000031_000041.mp4
+video extract success
+147
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/dying_hair/F2iDsGsHXLU_000003_000013.mp4
+video extract success
+148
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/dying_hair/-XA9ixioG8I_000147_000157.mp4
+video extract success
+149
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/dying_hair/8BHnPxRO39U_000119_000129.mp4
+video extract success
+150
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/dying_hair/-SLtRz-WHa0_000634_000644.mp4
+video extract success
+151
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/dying_hair/rzJ9sRqRPVA_000116_000126.mp4
+video extract success
+152
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/dying_hair/UBn0yUro3eU_000126_000136.mp4
+video extract success
+153
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/dying_hair/_JkW7q9sroI_000130_000140.mp4
+video extract success
+154
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/dying_hair/T2Nw-6xIwHw_000097_000107.mp4
+video extract success
+155
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/dying_hair/Kguof-zF2AE_000045_000055.mp4
+video extract success
+156
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/dying_hair/EGpb7r1ErN4_000145_000155.mp4
+video extract success
+157
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/dying_hair/Sbx7jzYuieI_000143_000153.mp4
+video extract success
+158
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/dying_hair/CjxX2ufiO00_000249_000259.mp4
+video extract success
+159
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/dying_hair/GJW27skxknk_000260_000270.mp4
+video extract success
+160
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/dying_hair/n0l9sRF2j3Y_000107_000117.mp4
+video extract success
+161
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/dying_hair/jHWg2X9IKhk_000139_000149.mp4
+video extract success
+162
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/dying_hair/mWqr_ahcfu4_000302_000312.mp4
+video extract success
+163
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/dying_hair/nFBfFl8O0wE_000336_000346.mp4
+video extract success
+164
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/dying_hair/oBf-SDlTDd0_000316_000326.mp4
+video extract success
+165
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/dying_hair/lnEzg-emb_I_000055_000065.mp4
+video extract success
+166
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/dying_hair/C4Sv9AIOzCI_000506_000516.mp4
+video extract success
+167
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/dying_hair/dYbR006wxwM_000134_000144.mp4
+video extract success
+168
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/dying_hair/kXeBEHDgfEg_000244_000254.mp4
+video extract success
+169
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/dying_hair/FiCp1lK3hDM_000124_000134.mp4
+video extract success
+170
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/dying_hair/aPSlmoaNrSA_002540_002550.mp4
+video extract success
+171
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/dying_hair/70JCLTv8cus_000070_000080.mp4
+video extract success
+172
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/dying_hair/yEKOK1e-uDk_000201_000211.mp4
+video extract success
+173
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/dying_hair/bGhuUhg0JX8_000596_000606.mp4
+video extract success
+174
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/dying_hair/yf6TWPYBmxQ_000361_000371.mp4
+video extract success
+175
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/dying_hair/dG0830Pn95w_000241_000251.mp4
+video extract success
+176
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/dying_hair/z6pL6H0yUc0_000078_000088.mp4
+video extract success
+177
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/dying_hair/ZPi1N6Va0l0_000002_000012.mp4
+video extract success
+178
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/dying_hair/IIlPT_WfEgE_000054_000064.mp4
+video extract success
+179
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/dying_hair/oYWh_iff0g8_000017_000027.mp4
+video extract success
+180
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/dying_hair/GQJjZrdu3X4_000123_000133.mp4
+video extract success
+181
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/dying_hair/9lBLNqz-AVs_000161_000171.mp4
+video extract success
+182
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/dying_hair/-Q78VJXH1ls_000065_000075.mp4
+video extract success
+183
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/dying_hair/Q88BZjXmBww_000401_000411.mp4
+video extract success
+184
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/dying_hair/ueaBA191FsU_000060_000070.mp4
+video extract success
+185
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/dying_hair/NMXWCdRSJG0_000117_000127.mp4
+video extract success
+186
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/dying_hair/HR8tY1wCUss_000282_000292.mp4
+video extract success
+187
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/dying_hair/CQHL-L-uAk4_000193_000203.mp4
+video extract success
+188
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/dying_hair/pcBnIuIdBUs_000239_000249.mp4
+video extract success
+189
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/dying_hair/g2EJupoaPmI_000821_000831.mp4
+video extract success
+190
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/dying_hair/D5qUCvK6Pew_000096_000106.mp4
+video extract success
+191
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/dying_hair/eGVZM53eLfI_000114_000124.mp4
+video extract success
+192
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/dying_hair/thJOXsJdRSo_000179_000189.mp4
+video extract success
+193
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/dying_hair/oAgz11ez1OI_000067_000077.mp4
+video extract success
+194
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/dying_hair/otAfg05rTBU_000130_000140.mp4
+video extract success
+195
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/dying_hair/gz2CjmpVI9s_000511_000521.mp4
+video extract success
+196
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/dying_hair/w5BzsArUk1s_000203_000213.mp4
+video extract success
+197
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/dying_hair/pSdetsdo5s0_000371_000381.mp4
+video extract success
+198
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/dying_hair/eD4x1t8BSQs_000142_000152.mp4
+video extract success
+199
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/dying_hair/ZWWdMp9DxiI_001061_001071.mp4
+video extract success
+200
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/dying_hair/6WSS1nRYR8c_000512_000522.mp4
+video extract success
+201
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/dying_hair/GSMzUkHVQE0_000012_000022.mp4
+video extract success
+202
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/dying_hair/hJrmtPyWG2k_000261_000271.mp4
+video extract success
+203
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/dying_hair/ZsxRd_4TCmA_000024_000034.mp4
+video extract success
+204
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/dying_hair/th35UG_oLxo_000417_000427.mp4
+video extract success
+205
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/dying_hair/yTJVMIeoBMU_000075_000085.mp4
+video extract success
+206
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/dying_hair/D9qRQm52NeI_000253_000263.mp4
+video extract success
+207
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/dying_hair/LjoSrpLo4MU_000219_000229.mp4
+video extract success
+208
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/dying_hair/cfpm6V7ii_0_000017_000027.mp4
+video extract success
+209
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/dying_hair/7fc9qXSuFRY_000264_000274.mp4
+video extract success
+210
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/dying_hair/a4PLYuQG0lE_000149_000159.mp4
+video extract success
+211
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/dying_hair/akUx3ZzB7Hc_000349_000359.mp4
+video extract success
+212
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/dying_hair/u0dJjAMn31Y_000123_000133.mp4
+video extract success
+213
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/dying_hair/G6cSYCSrLEs_000055_000065.mp4
+video extract success
+214
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/dying_hair/4wExkV03sMo_000058_000068.mp4
+video extract success
+215
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/dying_hair/c8ffyjtCEpI_000204_000214.mp4
+video extract success
+216
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/dying_hair/aAjY0n7Knr0_001238_001248.mp4
+video extract success
+217
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/dying_hair/aYAN7HxT2QU_000108_000118.mp4
+video extract success
+218
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/dying_hair/tkT9tFrDz5k_000069_000079.mp4
+video extract success
+219
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/dying_hair/WmLCdMOAhcw_000089_000099.mp4
+video extract success
+220
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/dying_hair/LeCqerENvKE_000068_000078.mp4
+video extract success
+221
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/dying_hair/VkqigRptIV8_000053_000063.mp4
+video extract success
+222
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/dying_hair/5k3tpLt5MSo_000384_000394.mp4
+video extract success
+223
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/dying_hair/6SnPo56_u70_000282_000292.mp4
+video extract success
+224
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/dying_hair/PoGUZAXsE5w_000142_000152.mp4
+video extract success
+225
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/dying_hair/wVitXtandLM_000001_000011.mp4
+video extract success
+226
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/dying_hair/7tXKq6g26OA_000163_000173.mp4
+video extract success
+227
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/dying_hair/YUcmSTT9pQA_000036_000046.mp4
+video extract success
+228
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/dying_hair/ALrZZeAL1tM_000128_000138.mp4
+video extract success
+229
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/dying_hair/G_OMuExGDvk_000001_000011.mp4
+video extract success
+230
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/dying_hair/GF0w1rKh3zw_000145_000155.mp4
+video extract success
+231
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/dying_hair/RW3baWeOeq4_000093_000103.mp4
+video extract success
+232
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/dying_hair/hwgQiYNMK3U_000005_000015.mp4
+video extract success
+233
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/dying_hair/RqBnRjy7Cy0_000008_000018.mp4
+video extract success
+234
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/dying_hair/zVRdwx-7QJU_000176_000186.mp4
+video extract success
+235
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/dying_hair/cXW0vqQVihw_000608_000618.mp4
+video extract success
+236
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/dying_hair/6G8afGSt6mU_000094_000104.mp4
+video extract success
+237
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/dying_hair/UtY0TLyRAqs_000145_000155.mp4
+video extract success
+238
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/dying_hair/ZXfzMzqmkt4_000027_000037.mp4
+video extract success
+239
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/dying_hair/0whbPMOpKzE_000197_000207.mp4
+video extract success
+240
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/dying_hair/cYJP8-O_xNk_000057_000067.mp4
+video extract success
+241
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/dying_hair/F_-jWGljMDs_000161_000171.mp4
+video extract success
+242
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/dying_hair/JYa2KOeWGgE_000144_000154.mp4
+video extract success
+243
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/dying_hair/mAl9lEUbbzc_000064_000074.mp4
+video extract success
+244
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/dying_hair/Y9fTwWqq8xY_000078_000088.mp4
+video extract success
+245
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/dying_hair/vmiorAEnZeE_000075_000085.mp4
+video extract success
+246
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/dying_hair/TdWYB0rwRm4_000065_000075.mp4
+video extract success
+247
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/dying_hair/Xkbjq0y49oc_000082_000092.mp4
+video extract success
+248
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/dying_hair/jzUWinH6IWs_000140_000150.mp4
+video extract success
+249
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/dying_hair/IRke3ycQEVc_000163_000173.mp4
+video extract success
+250
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/dying_hair/i1nAIXOCkG8_000165_000175.mp4
+video extract success
+251
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/dying_hair/tB14Ual3HOM_000232_000242.mp4
+video extract success
+252
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/dying_hair/EsBUoOiX--U_000196_000206.mp4
+video extract success
+253
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/dying_hair/iSi2Af6Sij4_000086_000096.mp4
+video extract success
+254
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/dying_hair/DZ2rOSlYBNU_000151_000161.mp4
+video extract success
+255
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/dying_hair/1llbpqf3KN4_000422_000432.mp4
+video extract success
+256
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/dying_hair/pzoeI5dhKMg_000526_000536.mp4
+video extract success
+257
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/dying_hair/-JJiyN8fwcI_000107_000117.mp4
+video extract success
+258
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/dying_hair/grybFt53Upc_000447_000457.mp4
+video extract success
+259
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/dying_hair/QEbkHi1p9eE_000151_000161.mp4
+video extract success
+260
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/dying_hair/4ySOBNPGnQ4_000137_000147.mp4
+video extract success
+261
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/dying_hair/s0-lqlreqrA_000097_000107.mp4
+video extract success
+262
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/dying_hair/00EMZGzlhek_000018_000028.mp4
+video extract success
+263
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/dying_hair/USfGPeCYA8U_000065_000075.mp4
+video extract success
+264
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/dying_hair/REZrz8KAcsw_000376_000386.mp4
+video extract success
+265
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/dying_hair/8InOhhcSFUc_000141_000151.mp4
+video extract success
+266
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/dying_hair/eA0BvPCVWA4_000000_000010.mp4
+video extract success
+267
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/dying_hair/FHWze7bsxfI_000243_000253.mp4
+video extract success
+268
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/dying_hair/6pA6SVAjnGE_000115_000125.mp4
+video extract success
+269
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/dying_hair/si20P1fGctM_000104_000114.mp4
+video extract success
+270
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/dying_hair/X4ENk4GdRDY_000128_000138.mp4
+video extract success
+271
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/dying_hair/Z9BKEUvhR7Q_000027_000037.mp4
+video extract success
+272
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/dying_hair/25r6lixZUM4_000315_000325.mp4
+video extract success
+273
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/dying_hair/xVmbtYELrsk_000368_000378.mp4
+video extract success
+274
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/dying_hair/_N68sGlZMqM_000000_000010.mp4
+video extract success
+275
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/dying_hair/dCwuK1lPJYY_000079_000089.mp4
+video extract success
+276
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/dying_hair/7ZtXbM-2pFE_000146_000156.mp4
+video extract success
+277
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/dying_hair/_VKF8fWrDv4_000858_000868.mp4
+video extract success
+278
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/dying_hair/ocbq3NNT_vU_000186_000196.mp4
+video extract success
+279
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/dying_hair/KPnENjEQ4bE_001080_001090.mp4
+video extract success
+280
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/dying_hair/iAN7NsGNUnE_000049_000059.mp4
+video extract success
+281
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/dying_hair/xfpM1JJu5qQ_000450_000460.mp4
+video extract success
+282
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/dying_hair/leHHWkNuJaY_000474_000484.mp4
+video extract success
+283
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/dying_hair/shU8Lt34uDY_000026_000036.mp4
+video extract success
+284
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/dying_hair/QiSO-rZiMuw_000068_000078.mp4
+video extract success
+285
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/dying_hair/PxYkksCvu9k_000295_000305.mp4
+video extract success
+286
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/dying_hair/dazFIzHfkwA_000310_000320.mp4
+video extract success
+287
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/dying_hair/OBdE76LXosI_000092_000102.mp4
+video extract success
+288
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/dying_hair/iwGR7Y0su4Y_000344_000354.mp4
+video extract success
+289
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/dying_hair/lgCdrQpSCmU_000128_000138.mp4
+video extract success
+290
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/dying_hair/7_ByQvE8Ioc_000410_000420.mp4
+video extract success
+291
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/dying_hair/4eZ2Ew65To4_000033_000043.mp4
+video extract success
+292
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/dying_hair/YvXbZ1RTYDA_000144_000154.mp4
+video extract success
+293
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/dying_hair/YAjnE2Nr9Fc_000166_000176.mp4
+video extract success
+294
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/dying_hair/g6FOLe9kzF0_000090_000100.mp4
+video extract success
+295
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/dying_hair/ByoPV4OESoM_000139_000149.mp4
+video extract success
+296
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/dying_hair/Fx0l9qGSEI0_000235_000245.mp4
+video extract success
+297
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/dying_hair/pEs5PgForgI_000184_000194.mp4
+video extract success
+298
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/dying_hair/qKJskzez7CA_000060_000070.mp4
+video extract success
+299
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/dying_hair/wKa8D8tl4HE_000114_000124.mp4
+video extract success
+300
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/dying_hair/VafgrvAlH_A_000016_000026.mp4
+video extract success
+301
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/dying_hair/S14vEyTpD1Q_000113_000123.mp4
+video extract success
+302
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/dying_hair/ImVrxjRDMLw_000315_000325.mp4
+video extract success
+303
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/dying_hair/PY1Lc-hUf1M_000046_000056.mp4
+video extract success
+304
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/dying_hair/PSrkOYG8fk4_000135_000145.mp4
+video extract success
+305
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/dying_hair/c_Sygf49Gxw_000087_000097.mp4
+video extract success
+306
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/dying_hair/GnqjjCZAjJA_000188_000198.mp4
+video extract success
+307
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/dying_hair/Qo4qBTv708Q_000041_000051.mp4
+video extract success
+308
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/dying_hair/FqIW9gsP32w_000280_000290.mp4
+video extract success
+309
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/dying_hair/BfwctOjUKoE_000457_000467.mp4
+video extract success
+310
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/dying_hair/fJ85N-rCZ1s_000028_000038.mp4
+video extract success
+311
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/dying_hair/3Sa8soBPylM_000130_000140.mp4
+video extract success
+312
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/dying_hair/-wMdyw61Gxc_000461_000471.mp4
+video extract success
+313
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/dying_hair/Z64Wy3fb8J0_000162_000172.mp4
+video extract success
+314
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/dying_hair/5g8KH8VcQfw_000990_001000.mp4
+video extract success
+315
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/dying_hair/1GvDmbK0X5M_000162_000172.mp4
+video extract success
+316
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/dying_hair/IJyrjXRVpqQ_000583_000593.mp4
+video extract success
+317
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/dying_hair/JTkovcFbmQ4_000050_000060.mp4
+video extract success
+318
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/dying_hair/cK7G1jNheYE_000345_000355.mp4
+video extract success
+319
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/dying_hair/j1R9NJrr4AA_001015_001025.mp4
+video extract success
+320
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/dying_hair/K04uEvvCPDY_000288_000298.mp4
+video extract success
+321
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/dying_hair/A1y4hT1NZec_000004_000014.mp4
+video extract success
+322
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/dying_hair/ZZz0SnM-Fbw_000188_000198.mp4
+video extract success
+323
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/dying_hair/g9ZIOdKpxK8_000072_000082.mp4
+video extract success
+324
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/dying_hair/m-APsmKQwSA_000300_000310.mp4
+video extract success
+325
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/dying_hair/ngxGK57ky2w_000156_000166.mp4
+video extract success
+326
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/dying_hair/BrDXos0r--M_000271_000281.mp4
+video extract success
+327
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/dying_hair/4aCm5IkkWPY_000590_000600.mp4
+video extract success
+328
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/dying_hair/4UECnYmxBYw_000383_000393.mp4
+video extract success
+329
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/dying_hair/xPx6ikwNcbk_000244_000254.mp4
+video extract success
+330
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/dying_hair/6SEKqwyyRMA_000255_000265.mp4
+video extract success
+331
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/dying_hair/yqaJaM1upp8_000169_000179.mp4
+video extract success
+332
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/dying_hair/Otlra_5aGIM_000003_000013.mp4
+video extract success
+333
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/dying_hair/qe2a7Cph1jY_000224_000234.mp4
+video extract success
+334
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/dying_hair/vh4F2njfSaA_000288_000298.mp4
+video extract success
+335
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/dying_hair/VEBqK5WUA88_000314_000324.mp4
+video extract success
+336
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/dying_hair/E31rF20Pmpc_000025_000035.mp4
+video extract success
+337
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/dying_hair/Gc-OFuWryEU_000052_000062.mp4
+video extract success
+338
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/dying_hair/YterLYm8w0Q_000230_000240.mp4
+video extract success
+339
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/dying_hair/GbVXfvPC1Dk_000326_000336.mp4
+video extract success
+340
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/dying_hair/jvNhmB1XHkc_000188_000198.mp4
+video extract success
+341
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/dying_hair/cjray7Rp_Kg_000563_000573.mp4
+video extract success
+342
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/dying_hair/fkHVGx4pHpo_000116_000126.mp4
+video extract success
+343
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/dying_hair/L2U41Pt42X0_000232_000242.mp4
+video extract success
+344
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/dying_hair/dGwnywfOgfs_000245_000255.mp4
+video extract success
+345
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/dying_hair/VJapmy0A14Q_000057_000067.mp4
+video extract success
+346
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/dying_hair/mvOyuIk4SD8_000360_000370.mp4
+video extract success
+347
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/dying_hair/FoMNXwHFwAM_000353_000363.mp4
+video extract success
+348
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/dying_hair/AYicWQwBHTs_000196_000206.mp4
+video extract success
+349
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/dying_hair/j4wEhqD6lGI_000152_000162.mp4
+video extract success
+350
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/dying_hair/nj-04dopR7k_000193_000203.mp4
+video extract success
+351
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/dying_hair/85I_GOTyJAI_000180_000190.mp4
+video extract success
+352
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/dying_hair/MxIMV-r-R4A_000097_000107.mp4
+video extract success
+353
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/dying_hair/Xk_qnaYcAn0_000403_000413.mp4
+video extract success
+354
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/dying_hair/q-JaP_te1Jo_000280_000290.mp4
+video extract success
+355
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/dying_hair/kRCq0ByT1Lk_000362_000372.mp4
+video extract success
+356
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/dying_hair/cyPBXEjPLvY_000251_000261.mp4
+video extract success
+357
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/dying_hair/i1dNbzw8pbI_000216_000226.mp4
+video extract success
+358
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/dying_hair/s8o723-dr-o_000081_000091.mp4
+video extract success
+359
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/dying_hair/XWVe1yEKzXA_000153_000163.mp4
+video extract success
+360
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/dying_hair/cKoVc7mPo3s_000158_000168.mp4
+video extract success
+361
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/dying_hair/3pm8A9lZ6x0_000263_000273.mp4
+video extract success
+362
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/dying_hair/i6TUcIL_f90_000044_000054.mp4
+video extract success
+363
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/dying_hair/vKl3qte4hRM_000185_000195.mp4
+video extract success
+364
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/dying_hair/W5jcNKuytnI_000077_000087.mp4
+video extract success
+365
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/dying_hair/Nk4q9x5cdJM_000642_000652.mp4
+video extract success
+366
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/dying_hair/u6wuemZuris_000087_000097.mp4
+video extract success
+367
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/dying_hair/eiidyIko56o_000347_000357.mp4
+video extract success
+368
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/dying_hair/7qf4Q0UZsOw_000273_000283.mp4
+video extract success
+369
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/dying_hair/83jVX0gL_mk_000550_000560.mp4
+video extract success
+370
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/dying_hair/8GVPAIu4XlY_000250_000260.mp4
+video extract success
+371
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/dying_hair/3b7DLZyNzLg_000269_000279.mp4
+video extract success
+372
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/dying_hair/JGcJOVYruFQ_000355_000365.mp4
+video extract success
+373
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/dying_hair/77yNLAdJQ2c_000215_000225.mp4
+video extract success
+374
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/dying_hair/kfKK1tDOVKY_000128_000138.mp4
+video extract success
+375
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/dying_hair/oRBXfHP7k30_000110_000120.mp4
+video extract success
+376
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/dying_hair/TjchYV9U1Ps_000074_000084.mp4
+video extract success
+377
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/dying_hair/5YSLmgO5t0M_000141_000151.mp4
+video extract success
+378
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/dying_hair/LRue8Jxi6p8_000113_000123.mp4
+video extract success
+379
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/dying_hair/DfQGVDz_-js_000100_000110.mp4
+video extract success
+380
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/dying_hair/Hqp1r92YQkw_000289_000299.mp4
+video extract success
+381
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/dying_hair/KMf_J7-RCVo_000183_000193.mp4
+video extract success
+382
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/dying_hair/ocTSBxA34ys_000061_000071.mp4
+video extract success
+383
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/dying_hair/ivw45LeKRPA_000079_000089.mp4
+video extract success
+384
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/dying_hair/bfgxm2SD7Iw_000264_000274.mp4
+video extract success
+385
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/dying_hair/4URS3c09XaE_000001_000011.mp4
+video extract success
+386
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/dying_hair/0sP_tm0IV1U_000131_000141.mp4
+video extract success
+387
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/dying_hair/fgtM-vFIjlA_000068_000078.mp4
+video extract success
+388
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/dying_hair/4mXOrWsnmyA_000054_000064.mp4
+video extract success
+389
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/dying_hair/Yht6Qkg8VwI_000068_000078.mp4
+video extract success
+390
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/dying_hair/RsW-4C5FHsM_000209_000219.mp4
+video extract success
+391
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/dying_hair/OZMfm4e1554_000169_000179.mp4
+video extract success
+392
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/dying_hair/Yn5Bi0iSahU_000088_000098.mp4
+video extract success
+393
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/dying_hair/Lbp86R7BNTI_000569_000579.mp4
+video extract success
+394
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/dying_hair/mIzJLdGhluA_000356_000366.mp4
+video extract success
+395
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/dying_hair/2SAImXQ2Z3c_000382_000392.mp4
+video extract success
+396
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/dying_hair/J0cYJlXJFtQ_000087_000097.mp4
+video extract success
+397
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/dying_hair/kb0xxE8wlts_000045_000055.mp4
+video extract success
+398
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/dying_hair/NCWMQ7W0IO8_000015_000025.mp4
+video extract success
+399
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/dying_hair/ba4Dl0xnnRY_000135_000145.mp4
+video extract success
+400
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/dying_hair/J3MHQ7OHjxc_000223_000233.mp4
+video extract success
+401
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/dying_hair/8tMT2aVWF1Y_000336_000346.mp4
+video extract success
+402
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/dying_hair/hmpWL8Xw5q4_000095_000105.mp4
+video extract success
+403
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/dying_hair/vhhSF6pCuqU_000418_000428.mp4
+video extract success
+404
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/dying_hair/eTL9Zp0QVFI_000026_000036.mp4
+video extract success
+405
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/dying_hair/FYhJqoqjbVI_000191_000201.mp4
+video extract success
+406
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/dying_hair/8XM3DRbn1vg_000058_000068.mp4
+video extract success
+407
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/dying_hair/gYREeat24Bc_000079_000089.mp4
+video extract success
+408
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/dying_hair/5SCsY4UFup4_000714_000724.mp4
+video extract success
+409
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/dying_hair/hHdVIXYJpk8_000349_000359.mp4
+video extract success
+410
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/dying_hair/kcPELiDl2gs_000607_000617.mp4
+video extract success
+411
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/dying_hair/EUKi0zGIRbo_000124_000134.mp4
+video extract success
+412
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/dying_hair/x1Bmf06CTT4_000339_000349.mp4
+video extract success
+413
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/dying_hair/Y64aGe9HRyo_000073_000083.mp4
+video extract success
+414
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/dying_hair/0taRnclytGA_000148_000158.mp4
+video extract success
+415
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/dying_hair/jNZq06PrwTM_000073_000083.mp4
+video extract success
+416
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/dying_hair/mH45Gb6ZXFA_000191_000201.mp4
+video extract success
+417
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/dying_hair/9NG_SQbYqtQ_000059_000069.mp4
+video extract success
+418
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/dying_hair/MThIyViPuOA_000278_000288.mp4
+video extract success
+419
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/dying_hair/5_4ceJpCcjA_000230_000240.mp4
+video extract success
+420
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/dying_hair/Tme6N32ERQQ_000013_000023.mp4
+video extract success
+421
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/dying_hair/z-l6egpZbWA_000321_000331.mp4
+video extract success
+422
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/dying_hair/8B3UMI41lVI_000023_000033.mp4
+video extract success
+423
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/dying_hair/t-tRWJv-Nh0_000287_000297.mp4
+video extract success
+424
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/dying_hair/JOB4yy5Jyds_000120_000130.mp4
+video extract success
+425
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/dying_hair/PQupOWLhNIA_000162_000172.mp4
+video extract success
+426
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/dying_hair/A8tN_Mn-UHw_000220_000230.mp4
+video extract success
+427
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/dying_hair/lb2N-7BHrP4_000121_000131.mp4
+video extract success
+428
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/dying_hair/dv0athuwQ5U_001116_001126.mp4
+video extract success
+429
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/dying_hair/pplZVau8uI4_000122_000132.mp4
+video extract success
+430
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/dying_hair/fPGsgjwzVw4_000024_000034.mp4
+video extract success
+431
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/dying_hair/1Ag8C8pu4Nk_000000_000010.mp4
+video extract success
+432
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/dying_hair/4uVxzpXjNFI_000037_000047.mp4
+video extract success
+433
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/dying_hair/pt2OAsyF8XU_000235_000245.mp4
+video extract success
+434
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/dying_hair/hhxD7gVf64s_000001_000011.mp4
+video extract success
+435
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/dying_hair/JpadZrX_em0_000165_000175.mp4
+video extract success
+436
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/dying_hair/zER32lZ4ObU_000031_000041.mp4
+video extract success
+437
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/dying_hair/QPeO-h-vwn8_000454_000464.mp4
+video extract success
+438
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/dying_hair/55l2o_xmWww_000169_000179.mp4
+video extract success
+439
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/dying_hair/NAYsFGfcReE_000053_000063.mp4
+video extract success
+440
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/dying_hair/pQYe6SyJ5qk_000219_000229.mp4
+video extract success
+441
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/dying_hair/A9lRkfvOGH4_000095_000105.mp4
+video extract success
+442
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/dying_hair/yXOfFEVIt-c_000088_000098.mp4
+video extract success
+443
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/dying_hair/py917tPLTr8_000124_000134.mp4
+video extract success
+444
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/dying_hair/4scq3RZ1X8Q_000079_000089.mp4
+video extract success
+445
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/dying_hair/ODDZ7BebiEE_000091_000101.mp4
+video extract success
+446
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/dying_hair/9M-VMYzLk7k_000207_000217.mp4
+video extract success
+447
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/dying_hair/bc3qvtSqjLE_000053_000063.mp4
+video extract success
+448
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/dying_hair/Y3hyDtEgprs_000051_000061.mp4
+video extract success
+449
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/dying_hair/Ul2er14JgAA_000109_000119.mp4
+video extract success
+450
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/dying_hair/NHEophtUpdc_000189_000199.mp4
+video extract success
+451
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/dying_hair/aqDjWaSL8Fw_000090_000100.mp4
+video extract success
+452
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/dying_hair/ewr90WWY8CA_000061_000071.mp4
+video extract success
+453
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/dying_hair/l5G1res9nXQ_000181_000191.mp4
+video extract success
+454
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/dying_hair/Do3HdswXKn0_000245_000255.mp4
+video extract success
+455
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/dying_hair/rlFJJK6FV00_000226_000236.mp4
+video extract success
+456
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/dying_hair/GrBT4McZgeI_000336_000346.mp4
+video extract success
+457
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/dying_hair/Q5XV3UUCPbw_000040_000050.mp4
+video extract success
+458
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/dying_hair/euKNMkelRAY_000182_000192.mp4
+video extract success
+459
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/dying_hair/qNiI-EyllZw_000283_000293.mp4
+video extract success
+460
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/dying_hair/8vp9l70UkIE_000104_000114.mp4
+video extract success
+461
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/dying_hair/0j-xkhqhtlo_000286_000296.mp4
+video extract success
+462
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/dying_hair/JuF59f8L49M_000062_000072.mp4
+video extract success
+463
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/dying_hair/oDAv5A6cUzk_000141_000151.mp4
+video extract success
+464
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/dying_hair/344_90Geddc_000284_000294.mp4
+video extract success
+465
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/dying_hair/949WImbxejY_000555_000565.mp4
+video extract success
+466
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/dying_hair/j4nyfWkK9BM_000538_000548.mp4
+video extract success
+467
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/dying_hair/kBtC7g3XxdA_000002_000012.mp4
+video extract success
+468
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/dying_hair/UQsO_Iu1xYA_000272_000282.mp4
+video extract success
+469
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/dying_hair/oJ1DAfmZPy4_000032_000042.mp4
+video extract success
+470
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/dying_hair/xLsqDN65jlg_000104_000114.mp4
+video extract success
+471
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/dying_hair/VClRc62mQG0_000528_000538.mp4
+video extract success
+472
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/dying_hair/tUhaIXAU9vQ_000123_000133.mp4
+video extract success
+473
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/dying_hair/cBGAHhWbxSc_000135_000145.mp4
+video extract success
+474
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/dying_hair/J5xNIJlfBAw_000156_000166.mp4
+video extract success
+475
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/dying_hair/fdBEfUn_f4s_000251_000261.mp4
+video extract success
+476
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/dying_hair/iuPBDibzaIc_000174_000184.mp4
+video extract success
+477
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/dying_hair/dyZlKrbfZ8U_000088_000098.mp4
+video extract success
+478
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/dying_hair/9MlEqGog4tw_000171_000181.mp4
+video extract success
+479
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/dying_hair/Qvv4ZFfcLtE_000116_000126.mp4
+video extract success
+480
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/dying_hair/yoq1jp7uHIY_000086_000096.mp4
+video extract success
+481
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/dying_hair/54AybS-Ayfg_000247_000257.mp4
+video extract success
+482
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/dying_hair/BBbud2Mhjn4_000041_000051.mp4
+video extract success
+483
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/dying_hair/GXIfSSi6shU_000048_000058.mp4
+video extract success
+484
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/dying_hair/9Ny2fRZqAjs_000251_000261.mp4
+video extract success
+485
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/dying_hair/eB0usEC_H3Y_000181_000191.mp4
+video extract success
+486
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/dying_hair/zOBrMwXnVME_000111_000121.mp4
+video extract success
+487
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/dying_hair/2t5W4iSoYV8_000302_000312.mp4
+video extract success
+488
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/dying_hair/72yKcXjQNuk_000274_000284.mp4
+video extract success
+489
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/dying_hair/hfRoG27bcG0_000117_000127.mp4
+video extract success
+490
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/dying_hair/Ef2yXhPc8Kw_000096_000106.mp4
+video extract success
+491
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/dying_hair/AKO1Ho6KkL0_000395_000405.mp4
+video extract success
+492
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/dying_hair/ku9C2DMmvec_001157_001167.mp4
+video extract success
+493
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/dying_hair/lLy9_zhC03U_000379_000389.mp4
+video extract success
+494
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/dying_hair/Hba0k5W8q6c_000158_000168.mp4
+video extract success
+495
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/dying_hair/cJpJaG2vC_A_000027_000037.mp4
+video extract success
+496
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/dying_hair/t9RnwJOcy4c_000263_000273.mp4
+video extract success
+497
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/dying_hair/_9zgrMH5hzM_000056_000066.mp4
+video extract success
+498
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/dying_hair/cXadl7vxq2Y_000075_000085.mp4
+video extract success
+499
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/dying_hair/aqjUs77UHd0_000119_000129.mp4
+video extract success
+500
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/dying_hair/w1TUWhSOnio_000413_000423.mp4
+video extract success
+501
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/dying_hair/zf8zEpb1BiM_000028_000038.mp4
+video extract success
+502
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/dying_hair/8PWZdhkGb2o_000175_000185.mp4
+video extract success
+503
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/dying_hair/r9ctMdSNlRA_000188_000198.mp4
+video extract success
+504
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/dying_hair/trnvdk0niCQ_000128_000138.mp4
+video extract success
+505
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/dying_hair/sQuZeyghriw_000410_000420.mp4
+video extract success
+506
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/dying_hair/DQgGngd5ywM_000373_000383.mp4
+video extract success
+507
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/dying_hair/_iqL4BWbRyM_000266_000276.mp4
+video extract success
+508
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/dying_hair/0K4X6shWy4g_000105_000115.mp4
+video extract success
+509
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/dying_hair/nZ9CatKZLSA_000166_000176.mp4
+video extract success
+510
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/dying_hair/FWsXTyxqFCc_000094_000104.mp4
+video extract success
+511
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/dying_hair/EdDl14R9JuE_000144_000154.mp4
+video extract success
+512
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/dying_hair/shbwB5Ut5G4_000139_000149.mp4
+video extract success
+513
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/dying_hair/p5tWpnyZrhM_000102_000112.mp4
+video extract success
+514
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/dying_hair/KqHhX2cmYoI_000012_000022.mp4
+video extract success
+515
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/dying_hair/yDGkPO4tfw4_000305_000315.mp4
+video extract success
+516
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/dying_hair/Q9nUjjFlRfs_000163_000173.mp4
+video extract success
+517
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/dying_hair/bY1BzMRcP7c_000742_000752.mp4
+video extract success
+518
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/dying_hair/pgoO3hi8GGA_000193_000203.mp4
+video extract success
+519
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/dying_hair/nXUnsX-hJRI_000476_000486.mp4
+video extract success
+520
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/dying_hair/zI8rGSKkSng_000270_000280.mp4
+video extract success
+521
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/dying_hair/tepegpzOTsc_000046_000056.mp4
+video extract success
+522
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/dying_hair/spRoagwz-70_000691_000701.mp4
+video extract success
+523
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/dying_hair/aU9iGON_w04_000079_000089.mp4
+video extract success
+524
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/dying_hair/vk_VWN-T5dk_000006_000016.mp4
+video extract success
+525
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/dying_hair/l2cc-JQCXaI_000065_000075.mp4
+video extract success
+526
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/dying_hair/DFOWXj9mwtE_000129_000139.mp4
+video extract success
+527
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/dying_hair/lozI3IUjE6I_000317_000327.mp4
+video extract success
+528
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/dying_hair/gKxdHOa81Wc_000486_000496.mp4
+video extract success
+529
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/dying_hair/0wVnq5ASxTY_000284_000294.mp4
+video extract success
+530
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/dying_hair/IOebwvSFdcA_000062_000072.mp4
+video extract success
+531
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/dying_hair/gkPgiCzGxAY_000019_000029.mp4
+video extract success
+532
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/dying_hair/UjdPZZ3BK0I_000356_000366.mp4
+video extract success
+533
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/dying_hair/QFdiMFuDRb0_000388_000398.mp4
+video extract success
+534
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/dying_hair/qTK92jqSSGc_000016_000026.mp4
+video extract success
+535
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/dying_hair/pYPXIuODIr0_000010_000020.mp4
+video extract success
+536
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/dying_hair/9b4Y1F8aJCE_000173_000183.mp4
+video extract success
+537
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/dying_hair/sDD0p8h88rI_000000_000010.mp4
+video extract success
+538
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/dying_hair/f40drhGSKww_000225_000235.mp4
+video extract success
+539
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/dying_hair/Zwaf7TnEffw_000226_000236.mp4
+video extract success
+540
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/dying_hair/E0Pxsust6go_000117_000127.mp4
+video extract success
+541
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/dying_hair/w1wpNWF_pHo_000247_000257.mp4
+video extract success
+542
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/dying_hair/vMnWTL4hAX8_000281_000291.mp4
+video extract success
+543
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/dying_hair/tH997mMxMqM_000168_000178.mp4
+video extract success
+544
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/dying_hair/1Fd5oFFKXtQ_000127_000137.mp4
+video extract success
+545
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/dying_hair/d-dWlEN9qhc_000179_000189.mp4
+video extract success
+546
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/dying_hair/p6yZUhY4VrA_000012_000022.mp4
+video extract success
+547
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/dying_hair/o0sjnVRZnY0_000332_000342.mp4
+video extract success
+548
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/dying_hair/CJI25uRmaf4_000167_000177.mp4
+video extract success
+549
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/dying_hair/o9KvjtUzZTE_000286_000296.mp4
+video extract success
+550
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/dying_hair/Fz9fZ9_6lFk_000798_000808.mp4
+video extract success
+551
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/dying_hair/wlgzwLGvko8_000030_000040.mp4
+video extract success
+552
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/dying_hair/SRlJAsk2yN4_000111_000121.mp4
+video extract success
+553
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/dying_hair/nbDtli_ythM_000383_000393.mp4
+video extract success
+554
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/dying_hair/IBIYdFFY4kA_000234_000244.mp4
+video extract success
+555
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/dying_hair/Ny7KUzLpSF8_000063_000073.mp4
+video extract success
+556
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/dying_hair/30D0UFfQOJc_000259_000269.mp4
+video extract success
+557
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/dying_hair/eHrxjOOuPNg_000223_000233.mp4
+video extract success
+558
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/dying_hair/S2h_RqXZd6o_000315_000325.mp4
+video extract success
+559
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/dying_hair/9FmG7dhGdH8_000060_000070.mp4
+video extract success
+560
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/dying_hair/AAZojG_wKWI_000116_000126.mp4
+video extract success
+561
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/dying_hair/RUPFUA42Sgk_000167_000177.mp4
+video extract success
+562
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/dying_hair/BzgZxD1Qdmo_000124_000134.mp4
+video extract success
+563
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/dying_hair/heOQsUPEvjQ_001467_001477.mp4
+video extract success
+564
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/dying_hair/_s4OlGZL5pQ_000667_000677.mp4
+video extract success
+565
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/dying_hair/CVFmAe9Qx04_000098_000108.mp4
+video extract success
+566
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/dying_hair/KX2wdhua40k_000311_000321.mp4
+video extract success
+567
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/dying_hair/zqIqYQa0dyo_000198_000208.mp4
+video extract success
+568
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/dying_hair/tD6DFTQWntk_000201_000211.mp4
+video extract success
+569
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/dying_hair/Y6h5rtwrp9k_000558_000568.mp4
+video extract success
+570
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/dying_hair/SAH3k0VWEfA_000047_000057.mp4
+video extract success
+571
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/dying_hair/-ReIa_aICDI_000025_000035.mp4
+video extract success
+572
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/dying_hair/vCSkiIGL1fc_000005_000015.mp4
+video extract success
+573
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/dying_hair/I69Qu_O1eJw_000411_000421.mp4
+video extract success
+574
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/dying_hair/vEN5kjWGlLI_000131_000141.mp4
+video extract success
+575
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/dying_hair/RvWiyX1yzVM_000321_000331.mp4
+video extract success
+576
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/dying_hair/zF9-BIhhhJ0_000540_000550.mp4
+video extract success
+577
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/dying_hair/lwjv7JiK5dg_000049_000059.mp4
+video extract success
+578
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/dying_hair/CYcuM5ngX64_000068_000078.mp4
+video extract success
+579
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/dying_hair/qEPiIpBMp70_000514_000524.mp4
+video extract success
+580
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/dying_hair/rI1DIsofr5E_000048_000058.mp4
+video extract success
+581
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/dying_hair/UnovBIlPLdQ_000603_000613.mp4
+video extract success
+582
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/dying_hair/UAii4vTd5Jc_000213_000223.mp4
+video extract success
+583
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/dying_hair/b3T9aiM6ojs_000009_000019.mp4
+video extract success
+584
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/dying_hair/vhKQT-CbQpM_000029_000039.mp4
+video extract success
+585
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/dying_hair/G5JWn4PvvCw_000053_000063.mp4
+video extract success
+586
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/dying_hair/mH-UYGp2ILY_000194_000204.mp4
+video extract success
+587
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/dying_hair/i9cqREKBWtw_000342_000352.mp4
+video extract success
+588
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/dying_hair/hZNrUU8xxM8_000329_000339.mp4
+video extract success
+589
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/dying_hair/GaEK9Xu4vws_000058_000068.mp4
+video extract success
+590
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/dying_hair/OWCPx8cKdFQ_000150_000160.mp4
+video extract success
+591
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/dying_hair/xvr8X6TW8es_000070_000080.mp4
+video extract success
+592
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/dying_hair/eUyE9ntlccc_000045_000055.mp4
+video extract success
+593
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/dying_hair/Lr0hd1r-UBM_000108_000118.mp4
+video extract success
+594
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/dying_hair/w8qMIbuh0ew_000227_000237.mp4
+video extract success
+595
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/dying_hair/w0-eG4oJvUA_000206_000216.mp4
+video extract success
+596
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/dying_hair/zLsNATDm4Rs_000094_000104.mp4
+video extract success
+597
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/dying_hair/soaX09KO0jM_000342_000352.mp4
+video extract success
+598
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/dying_hair/biTTGnicKNs_000098_000108.mp4
+video extract success
+599
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/dying_hair/b_slrYKMgVc_000075_000085.mp4
+video extract success
+600
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/dying_hair/GdqeBtB9uUU_000026_000036.mp4
+video extract success
+601
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/dying_hair/t8GMS_SNatw_000204_000214.mp4
+video extract success
+602
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/dying_hair/_tD2cLtTrDc_000616_000626.mp4
+video extract success
+603
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/dying_hair/fgrA4O-6C7c_000156_000166.mp4
+video extract success
+604
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/dying_hair/RqXu5uO_PKM_000267_000277.mp4
+video extract success
+605
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/dying_hair/-RFE2ooHlgM_000325_000335.mp4
+video extract success
+606
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/dying_hair/Fwpxq2Tv5OI_000074_000084.mp4
+video extract success
+607
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/dying_hair/o3Qiu15Oh9I_000097_000107.mp4
+video extract success
+608
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/dying_hair/3SZXL7l39Tw_000180_000190.mp4
+video extract success
+609
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/dying_hair/3xRvcUQp19Y_000002_000012.mp4
+video extract success
+610
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/dying_hair/Zivw1Ko-_FM_000174_000184.mp4
+video extract success
+611
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/dying_hair/OMFRXv52bOU_000158_000168.mp4
+video extract success
+612
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/dying_hair/QCFsdcPUx6M_000187_000197.mp4
+video extract success
+613
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/dying_hair/JlXx80klZb4_000044_000054.mp4
+video extract success
+614
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/dying_hair/ENW7R_Mv8Vc_000202_000212.mp4
+video extract success
+615
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/dying_hair/kplJPpu1MCc_000873_000883.mp4
+video extract success
+616
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/dying_hair/aVGCxC-lh2w_000036_000046.mp4
+video extract success
+617
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/dying_hair/IjHDucjI6NQ_000089_000099.mp4
+video extract success
+618
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/dying_hair/YK2KG-OlyIg_000027_000037.mp4
+video extract success
+619
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/dying_hair/Pcqj-7iBwL8_000010_000020.mp4
+video extract success
+620
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/dying_hair/NjiptA_6FSM_000098_000108.mp4
+video extract success
+621
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/dying_hair/S0xaqTk1TKc_000101_000111.mp4
+video extract success
+622
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/dying_hair/mVSg-Sfc-t8_000332_000342.mp4
+video extract success
+623
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/dying_hair/Wm_b5n_wsqg_000157_000167.mp4
+video extract success
+624
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/dying_hair/gaSZefdTlEg_000343_000353.mp4
+video extract success
+625
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/dying_hair/1qUJgpyLgBo_000253_000263.mp4
+video extract success
+626
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/dying_hair/Ry2FySaS5uw_000224_000234.mp4
+video extract success
+627
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/dying_hair/FWf_MjiKNHc_000095_000105.mp4
+video extract success
+628
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/dying_hair/ZBoWhomuB7k_000166_000176.mp4
+video extract success
+629
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/dying_hair/DXdU9PpDo44_000277_000287.mp4
+video extract success
+630
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/dying_hair/fDwUACyzIEQ_000262_000272.mp4
+video extract success
+631
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/dying_hair/kMc-SSf2jCw_000280_000290.mp4
+video extract success
+632
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/dying_hair/PYnuKsD92N8_000185_000195.mp4
+video extract success
+633
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/dying_hair/txn9eGuBvW8_000069_000079.mp4
+video extract success
+634
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/dying_hair/lTzs88NjYgQ_000267_000277.mp4
+video extract success
+635
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/dying_hair/NBVlL3-jjaA_000130_000140.mp4
+video extract success
+636
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/dying_hair/ah-ZJ1ROyQ0_000131_000141.mp4
+video extract success
+637
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/dying_hair/qthHTujx_Gg_000094_000104.mp4
+video extract success
+638
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/dying_hair/nMVtDxLo6VU_000151_000161.mp4
+video extract success
+639
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/dying_hair/FxacQuNrMzw_000161_000171.mp4
+video extract success
+640
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/dying_hair/ennFEfSM7kM_000317_000327.mp4
+video extract success
+641
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/dying_hair/o247-XdddHg_000101_000111.mp4
+video extract success
+642
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/dying_hair/4_7I84wfRYE_000182_000192.mp4
+video extract success
+643
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/dying_hair/glAcLc34Z50_000121_000131.mp4
+video extract success
+644
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/dying_hair/X817icF1zXk_000140_000150.mp4
+video extract success
+645
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/dying_hair/5wQ1-2_LlIQ_000007_000017.mp4
+video extract success
+646
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/dying_hair/mfcKjFjLBXg_000038_000048.mp4
+video extract success
+647
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/dying_hair/VRyG7LrN3F0_000483_000493.mp4
+video extract success
+648
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/dying_hair/5HL6VOJqaYU_000004_000014.mp4
+video extract success
+649
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/dying_hair/AgYv579VYB8_000046_000056.mp4
+video extract success
+650
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/dying_hair/CZqqr59W9NA_000106_000116.mp4
+video extract success
+651
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/dying_hair/5KQVd1GzGqY_000101_000111.mp4
+video extract success
+652
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/dying_hair/eZbSruU7HtA_000236_000246.mp4
+video extract success
+653
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/dying_hair/HkhcpKQt_0A_000144_000154.mp4
+video extract success
+654
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/dying_hair/nbo4reiIA_M_000012_000022.mp4
+video extract success
+655
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/dying_hair/KddE6cB2Pjg_000140_000150.mp4
+video extract success
+656
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/dying_hair/YhZuDivjpIg_000050_000060.mp4
+video extract success
+657
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/dying_hair/eLVjJ8zwqQQ_000002_000012.mp4
+video extract success
+658
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/dying_hair/MHIEhrMq1A4_000106_000116.mp4
+video extract success
+659
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/dying_hair/dafD9siWd8Y_000068_000078.mp4
+video extract success
+660
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/dying_hair/2rlWNAR4i20_000169_000179.mp4
+video extract success
+661
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/dying_hair/S6AWdPP08qI_000146_000156.mp4
+video extract success
+662
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/dying_hair/zknOFmpqeo4_000057_000067.mp4
+video extract success
+663
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/dying_hair/d6DwPK15gJ8_000169_000179.mp4
+video extract success
+664
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/dying_hair/pRl2a4L_S9E_000338_000348.mp4
+video extract success
+665
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/dying_hair/v9pnEmPt09k_000108_000118.mp4
+video extract success
+666
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/dying_hair/HWBBIB0UUIA_000926_000936.mp4
+video extract success
+667
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/dying_hair/2OIqyNlLZM0_000549_000559.mp4
+video extract success
+668
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/dying_hair/Nw7arFqq3QM_000094_000104.mp4
+video extract success
+669
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/dying_hair/7fuzfzxU9aQ_000039_000049.mp4
+video extract success
+670
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/dying_hair/ujNZ64Yhu0Y_000120_000130.mp4
+video extract success
+671
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/dying_hair/hK-JQQab_0I_000421_000431.mp4
+video extract success
+672
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/dying_hair/DgSUncvpNxU_000096_000106.mp4
+video extract success
+673
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/dying_hair/TaWXK6oi-QU_000244_000254.mp4
+video extract success
+674
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/dying_hair/70EEixAIisY_000099_000109.mp4
+video extract success
+675
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/dying_hair/UyTmsJ59nZ4_000133_000143.mp4
+video extract success
+676
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/dying_hair/t9oBgPrYp8k_000223_000233.mp4
+video extract success
+677
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/dying_hair/EACUKGkYFkE_000029_000039.mp4
+video extract success
+678
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/dying_hair/f3-rOLj_MQE_000240_000250.mp4
+video extract success
+679
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/dying_hair/r5eRpo8LbsM_000626_000636.mp4
+video extract success
+680
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/dying_hair/la6PVJ6tcoY_000142_000152.mp4
+video extract success
+681
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/dying_hair/YydNn-Dr38w_000049_000059.mp4
+video extract success
+682
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/dying_hair/VTicURQXuTw_000169_000179.mp4
+video extract success
+683
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/dying_hair/IElyYHl9OBA_000165_000175.mp4
+video extract success
+684
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/dying_hair/H1_iQ_7fWqs_000253_000263.mp4
+video extract success
+685
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/dying_hair/1kufl_sHU1I_000135_000145.mp4
+video extract success
+686
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/dying_hair/Iw3uEH13Bv0_000198_000208.mp4
+video extract success
+687
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/dying_hair/gG_DM-lgsZc_000115_000125.mp4
+video extract success
+688
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/dying_hair/pHLRsrJwMIQ_000157_000167.mp4
+video extract success
+689
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/dying_hair/gOXkfTGXkuE_000367_000377.mp4
+video extract success
+690
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/dying_hair/x6-CTXRWYGc_000187_000197.mp4
+video extract success
+691
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/dying_hair/xJV8ADD5UfU_000085_000095.mp4
+video extract success
+692
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/dying_hair/HihCnelpjU4_000000_000010.mp4
+video extract success
+693
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/dying_hair/2bKzBXa_P1A_000035_000045.mp4
+video extract success
+694
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/dying_hair/TlJdIywGStw_000150_000160.mp4
+video extract success
+695
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/dying_hair/DURoPKd7RcA_000168_000178.mp4
+video extract success
+696
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/dying_hair/lETROcKvjmM_000300_000310.mp4
+video extract success
+697
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/dying_hair/PFPrjVxV6KE_000016_000026.mp4
+video extract success
+698
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/dying_hair/caI1pLlBTqw_000090_000100.mp4
+video extract success
+699
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/dying_hair/JBrFzbwuPbU_000018_000028.mp4
+video extract success
+700
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/dying_hair/BDU_rMNAKgw_000864_000874.mp4
+video extract success
+701
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/dying_hair/yzIKsaDwpW0_000119_000129.mp4
+video extract success
+702
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/dying_hair/xw4PaWBqP58_000032_000042.mp4
+video extract success
+703
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/dying_hair/ruGiMSM4Yrk_000500_000510.mp4
+video extract success
+704
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/dying_hair/v_Vl9P7edSw_000060_000070.mp4
+video extract success
+705
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/dying_hair/yoKwTdCDcbU_000132_000142.mp4
+video extract success
+706
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/dying_hair/_2J7CmBfKsc_000459_000469.mp4
+video extract success
+707
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/dying_hair/84Af3TYpaXk_000069_000079.mp4
+video extract success
+708
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/dying_hair/JtVev-UfPSM_000283_000293.mp4
+video extract success
+709
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/dying_hair/RxoKeWGhnJA_000043_000053.mp4
+video extract success
+710
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/dying_hair/VkCQXT2dxso_000037_000047.mp4
+video extract success
+711
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/dying_hair/alH9HSU3wWQ_000330_000340.mp4
+video extract success
+712
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/dying_hair/h6D3_m5mWaI_000222_000232.mp4
+video extract success
+713
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/dying_hair/uzrr4Z0FOho_000794_000804.mp4
+video extract success
+714
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/dying_hair/oeVH6S_d1d4_000057_000067.mp4
+video extract success
+715
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/dying_hair/WZ-yUQvj55g_000305_000315.mp4
+video extract success
+716
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/dying_hair/1gE6tQwb52E_000311_000321.mp4
+video extract success
+717
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/dying_hair/2wAJlhClETM_000302_000312.mp4
+video extract success
+718
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/dying_hair/DMf3fMRM8Ps_000237_000247.mp4
+video extract success
+719
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/dying_hair/Fni4GlliIf0_000177_000187.mp4
+video extract success
+720
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/dying_hair/wpFDCsso-pQ_000242_000252.mp4
+video extract success
+721
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/dying_hair/iSfSGHEf-jI_000027_000037.mp4
+video extract success
+722
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/dying_hair/lo64OO9nwH0_000267_000277.mp4
+video extract success
+723
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/dying_hair/AVZFzaeUe9s_000151_000161.mp4
+video extract success
+724
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/dying_hair/ou4fnya9aws_001018_001028.mp4
+video extract success
+725
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/dying_hair/P92R-8mWT0g_000198_000208.mp4
+video extract success
+726
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/dying_hair/K6mxS0-uD0k_000060_000070.mp4
+video extract success
+727
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/dying_hair/cbgUVCFyqs0_000454_000464.mp4
+video extract success
+728
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/dying_hair/Z3LdTN-WhCc_000253_000263.mp4
+video extract success
+729
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/dying_hair/V-tTpyPPJ_U_000115_000125.mp4
+video extract success
+730
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/dying_hair/X22fKY7wc1I_000128_000138.mp4
+video extract success
+731
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/dying_hair/_TXWPHxhmMU_000138_000148.mp4
+video extract success
+732
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/dying_hair/pDzpWc9P5OY_000039_000049.mp4
+video extract success
+733
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/dying_hair/QIqDMT0TQrE_000255_000265.mp4
+video extract success
+734
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/dying_hair/l9O3q-cIbH4_000192_000202.mp4
+video extract success
+735
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/dying_hair/9IRzcMFJKX4_000073_000083.mp4
+video extract success
+736
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/dying_hair/SbbsaEkvGJM_000000_000010.mp4
+video extract success
+737
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/dying_hair/s_uceHYzOLs_000155_000165.mp4
+video extract success
+738
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/dying_hair/8vafAppY23Y_000061_000071.mp4
+video extract success
+739
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/dying_hair/8yIwgbv5iec_000000_000010.mp4
+video extract success
+740
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/dying_hair/WwkmMoFkOYE_000460_000470.mp4
+video extract success
+741
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/dying_hair/Q7vvtY_RbOE_000099_000109.mp4
+video extract success
+742
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/dying_hair/hdY5rEduA6c_000153_000163.mp4
+video extract success
+743
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/dying_hair/u9LbsvWVP0E_000258_000268.mp4
+video extract success
+744
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/dying_hair/mMPsh2FkY78_000130_000140.mp4
+video extract success
+745
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/dying_hair/IyiXn26Cu_k_000169_000179.mp4
+video extract success
+746
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/dying_hair/ZsTMo3pFTmU_000195_000205.mp4
+video extract success
+747
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/dying_hair/x3xvdnNvRcM_000102_000112.mp4
+video extract success
+748
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/dying_hair/PRtpq6RiALI_000292_000302.mp4
+video extract success
+749
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/dying_hair/-O86lKfYeIk_000001_000011.mp4
+video extract success
+750
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/dying_hair/QQyBgP97XuI_000140_000150.mp4
+video extract success
+751
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/dying_hair/pLv2b3HO4Fg_000733_000743.mp4
+video extract success
+752
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/dying_hair/IrrK_W8X3bE_000039_000049.mp4
+video extract success
+753
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/dying_hair/gi4xegEBhdU_000299_000309.mp4
+video extract success
+754
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/dying_hair/9GBf5z9UiWE_000590_000600.mp4
+video extract success
+755
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/dying_hair/X5DyYVcZwXY_000326_000336.mp4
+video extract success
+756
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/dying_hair/SBBDfrySeVw_000335_000345.mp4
+video extract success
+757
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/dying_hair/VZ7dDscccII_000202_000212.mp4
+video extract success
+758
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/dying_hair/eqEhltkcIyk_000290_000300.mp4
+video extract success
+759
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/dying_hair/40hN5GH_3tk_000255_000265.mp4
+video extract success
+760
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/dying_hair/bVzfvERemfo_000117_000127.mp4
+video extract success
+761
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/dying_hair/DYjK0oFM2dk_000155_000165.mp4
+video extract success
+762
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/dying_hair/mE5Vq_J1afw_000250_000260.mp4
+video extract success
+763
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/dying_hair/yP0YESPYWUI_000157_000167.mp4
+video extract success
+764
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/dying_hair/e1kwKV1TVvM_000505_000515.mp4
+video extract success
+765
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/dying_hair/VD31SnJSnLs_000079_000089.mp4
+video extract success
+766
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/dying_hair/KFDz2FXrL-4_000105_000115.mp4
+video extract success
+767
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/dying_hair/uFtIvWqEGuI_000117_000127.mp4
+video extract success
+768
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/dying_hair/aKUeugKk6Js_000115_000125.mp4
+video extract success
+769
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/dying_hair/QLxQqdVdjYc_000123_000133.mp4
+video extract success
+770
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/dying_hair/UP6Dxc3s1KA_000221_000231.mp4
+video extract success
+771
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/dying_hair/CkPAU3dcbvo_000169_000179.mp4
+video extract success
+772
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/dying_hair/7SkFpZRR-LQ_000223_000233.mp4
+video extract success
+773
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/dying_hair/Nh03wTiRiVw_000058_000068.mp4
+video extract success
+774
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/dying_hair/G7AZm88Gi-4_000255_000265.mp4
+video extract success
+775
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/dying_hair/X6nkatqBkdU_000106_000116.mp4
+video extract success
+776
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/dying_hair/MEEIJLMiCKw_000121_000131.mp4
+video extract success
+777
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/dying_hair/vgBc130h3xc_000448_000458.mp4
+video extract success
+778
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/dying_hair/RFaurTGg18w_001209_001219.mp4
+video extract success
+779
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/dying_hair/NZiqRbArLeQ_000289_000299.mp4
+video extract success
+780
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/dying_hair/MNH1DUfjLA8_000124_000134.mp4
+video extract success
+781
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/dying_hair/8DXmtGfXYWU_000412_000422.mp4
+video extract success
+782
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/dying_hair/RYkTptgCcm4_000300_000310.mp4
+video extract success
+783
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/dying_hair/yl5DGVyx6w8_000241_000251.mp4
+video extract success
+784
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/dying_hair/81wF5oyKE7c_000062_000072.mp4
+video extract success
+785
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/dying_hair/swlPJwoAIZM_000283_000293.mp4
+video extract success
+786
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/dying_hair/oo_r9l9ZkxA_000023_000033.mp4
+video extract success
+787
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/dying_hair/meTdZmRTMi4_000106_000116.mp4
+video extract success
+788
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/dying_hair/JGxihZQ3TAs_000366_000376.mp4
+video extract success
+789
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/dying_hair/4K6HdN32ULg_000027_000037.mp4
+video extract success
+790
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/dying_hair/0zUYci9DKGo_000095_000105.mp4
+video extract success
+791
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/dying_hair/-wr2W1bvbYk_000480_000490.mp4
+video extract success
+792
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/dying_hair/etIO7Dlsiug_000265_000275.mp4
+video extract success
+793
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/dying_hair/PqQkyBvlEso_000094_000104.mp4
+video extract success
+794
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/dying_hair/uPwDX1vrt54_000164_000174.mp4
+video extract success
+795
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/dying_hair/qe2O7fjPZ3Y_000108_000118.mp4
+video extract success
+796
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/dying_hair/g7a17qEO4Hc_000326_000336.mp4
+video extract success
+797
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/dying_hair/zKvWqdpuu78_000127_000137.mp4
+video extract success
+798
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/dying_hair/IbZlthDob5E_000353_000363.mp4
+video extract success
+799
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/dying_hair/yrIPo7sn_Pw_000100_000110.mp4
+video extract success
+800
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/dying_hair/q1Tpx43qsug_000133_000143.mp4
+video extract success
+801
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/dying_hair/nlml7ns7KKA_000356_000366.mp4
+video extract success
+802
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/dying_hair/Rve71fbkCV4_000950_000960.mp4
+video extract success
+803
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/dying_hair/Olj2_Kt4iqM_000149_000159.mp4
+video extract success
+804
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/dying_hair/wwDov3LpyiE_000400_000410.mp4
+video extract success
+805
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/dying_hair/kETFtgRjueU_000147_000157.mp4
+video extract success
+806
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/dying_hair/dmHyBge4Hrg_000142_000152.mp4
+video extract success
+807
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/dying_hair/7L7lqr5y4Gk_000095_000105.mp4
+video extract success
+808
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/dying_hair/kGTx0Xcydhk_000011_000021.mp4
+video extract success
+809
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/dying_hair/cONmc0q3U-U_000000_000010.mp4
+video extract success
+810
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/dying_hair/p60vTsbnOn0_000091_000101.mp4
+video extract success
+811
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/dying_hair/JhQcx-kYOC4_000004_000014.mp4
+video extract success
+812
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/dying_hair/66VEDAny9nU_000036_000046.mp4
+video extract success
+813
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/dying_hair/LzfEXwzWCmU_000084_000094.mp4
+video extract success
+814
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/dying_hair/4FRu2BBLtU8_000384_000394.mp4
+video extract success
+815
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/dying_hair/9pCZG8uox4k_000199_000209.mp4
+video extract success
+816
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/dying_hair/O8ZpZqoMMHQ_000086_000096.mp4
+video extract success
+817
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/dying_hair/XXEkhwvL-38_000290_000300.mp4
+video extract success
+818
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/dying_hair/63jcB0afL4o_000102_000112.mp4
+video extract success
+819
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/dying_hair/GpoknKS01lg_000181_000191.mp4
+video extract success
+820
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/dying_hair/dMXtlJ9-p9A_000058_000068.mp4
+video extract success
+821
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/dying_hair/z7NIyBdXSEc_000090_000100.mp4
+video extract success
+822
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/dying_hair/Zbcq1MXKKiQ_000209_000219.mp4
+video extract success
+823
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/dying_hair/rAN14v_IDjM_000453_000463.mp4
+video extract success
+824
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/dying_hair/VWY-w5-dR0A_000092_000102.mp4
+video extract success
+825
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/dying_hair/R3v7-fRZ75U_000065_000075.mp4
+video extract success
+826
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/dying_hair/775ztuTAVPM_000137_000147.mp4
+video extract success
+827
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/dying_hair/MXjGsJttDkg_000167_000177.mp4
+video extract success
+828
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/dying_hair/9LH1StixLVg_000177_000187.mp4
+video extract success
+829
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/dying_hair/3KhWcsYCEE8_000396_000406.mp4
+video extract success
+830
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/swinging_legs/YVtnBI4oDS0_000004_000014.mp4
+video extract success
+831
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/swinging_legs/CmIxnlCqwwo_000023_000033.mp4
+video extract success
+832
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/swinging_legs/a9gYgHAwBmA_000000_000010.mp4
+video extract success
+833
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/swinging_legs/sYabPqFZa-E_000006_000016.mp4
+video extract success
+834
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/swinging_legs/drexInFRfbE_000027_000037.mp4
+video extract success
+835
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/swinging_legs/cNJwH9eWQ9M_000018_000028.mp4
+video extract success
+836
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/swinging_legs/uJXzzSSUsrc_000008_000018.mp4
+video extract success
+837
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/swinging_legs/RHjyRzEteFw_000021_000031.mp4
+video extract success
+838
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/swinging_legs/Zs9U19g0NAM_000009_000019.mp4
+video extract success
+839
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/swinging_legs/RD1GAmLBxTw_000003_000013.mp4
+video extract success
+840
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/swinging_legs/kNmWtdn6vjw_000014_000024.mp4
+video extract success
+841
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/swinging_legs/QCvqWDlp360_000003_000013.mp4
+video extract success
+842
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/swinging_legs/ZYzEcbgVWpQ_000004_000014.mp4
+video extract success
+843
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/swinging_legs/uKzPfgJRFBo_000002_000012.mp4
+video extract success
+844
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/swinging_legs/7BOF-8IAbBU_000012_000022.mp4
+video extract success
+845
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/swinging_legs/ZFpcwnQkWxc_000003_000013.mp4
+video extract success
+846
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/swinging_legs/EJDbOG2Yqww_000007_000017.mp4
+video extract success
+847
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/swinging_legs/sqo1Nxp8rM4_000003_000013.mp4
+video extract success
+848
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/swinging_legs/S5efVd1HtuQ_000064_000074.mp4
+video extract success
+849
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/swinging_legs/agzYkC9sJxY_000000_000010.mp4
+video extract success
+850
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/swinging_legs/d5hl12GYaFg_000000_000010.mp4
+video extract success
+851
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/swinging_legs/9r44866gq6w_000009_000019.mp4
+video extract success
+852
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/swinging_legs/ZuIZ9q4EKk4_000000_000010.mp4
+video extract success
+853
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/swinging_legs/xjCMvi_Nl4E_000000_000010.mp4
+video extract success
+854
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/swinging_legs/LoKkQ40xV3g_000002_000012.mp4
+video extract success
+855
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/swinging_legs/BndGslbH8ys_000006_000016.mp4
+video extract success
+856
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/swinging_legs/TgPq0fCEecA_000029_000039.mp4
+video extract success
+857
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/swinging_legs/7OyufPYLM4A_000000_000010.mp4
+video extract success
+858
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/swinging_legs/UKW8ZN2IG4k_000022_000032.mp4
+video extract success
+859
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/swinging_legs/XRRHxUZjYQk_000000_000010.mp4
+video extract success
+860
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/swinging_legs/L97D0-G2uM8_000089_000099.mp4
+video extract success
+861
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/swinging_legs/YWEIKwggn3E_000000_000010.mp4
+video extract success
+862
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/swinging_legs/FLmaqY71jQk_000001_000011.mp4
+video extract success
+863
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/swinging_legs/uDZju_Lh4CU_000007_000017.mp4
+video extract success
+864
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/swinging_legs/I_BBTXOCXFc_000014_000024.mp4
+video extract success
+865
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/swinging_legs/X3oi-26mkT0_000092_000102.mp4
+video extract success
+866
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/swinging_legs/E8sasSIkvfw_000002_000012.mp4
+video extract success
+867
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/swinging_legs/2_I-LuLk3no_000132_000142.mp4
+video extract success
+868
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/swinging_legs/lJjp9gGE-O0_000003_000013.mp4
+video extract success
+869
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/swinging_legs/DE3J4hadkiM_000000_000010.mp4
+video extract success
+870
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/swinging_legs/j4Csb4Bp58Q_000004_000014.mp4
+video extract success
+871
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/swinging_legs/haq7y_B12bc_000005_000015.mp4
+video extract success
+872
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/swinging_legs/bml_vDP2RDE_000004_000014.mp4
+video extract success
+873
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/swinging_legs/FOJspttFMH8_000000_000010.mp4
+video extract success
+874
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/swinging_legs/ZoIzKAUMXdw_000007_000017.mp4
+video extract success
+875
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/swinging_legs/FKDoe6rLwx8_000008_000018.mp4
+video extract success
+876
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/swinging_legs/KgGYdXkyPI0_000001_000011.mp4
+video extract success
+877
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/swinging_legs/taEHTbpwXxM_000015_000025.mp4
+video extract success
+878
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/swinging_legs/W91YPQvUG80_000002_000012.mp4
+video extract success
+879
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/swinging_legs/Fu7SGDYGKAE_000031_000041.mp4
+video extract success
+880
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/swinging_legs/dt_otrrFbPQ_000008_000018.mp4
+video extract success
+881
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/swinging_legs/w-29c9_x0pQ_000006_000016.mp4
+video extract success
+882
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/swinging_legs/5kilxxm-ckQ_000013_000023.mp4
+video extract success
+883
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/swinging_legs/9ih37onf6G4_000013_000023.mp4
+video extract success
+884
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/swinging_legs/yiCvKQDGXH4_000003_000013.mp4
+video extract success
+885
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/swinging_legs/QdCedFhLSuw_000002_000012.mp4
+video extract success
+886
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/swinging_legs/A9TbWiXCUVs_000009_000019.mp4
+video extract success
+887
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/swinging_legs/9LQyCa3tii8_000004_000014.mp4
+video extract success
+888
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/swinging_legs/Q-wJsKmr3ew_000004_000014.mp4
+video extract success
+889
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/swinging_legs/PlC_dom6iWY_000088_000098.mp4
+video extract success
+890
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/swinging_legs/QlGuTasXzhI_000003_000013.mp4
+video extract success
+891
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/swinging_legs/F7o-YF--Od4_000007_000017.mp4
+video extract success
+892
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/swinging_legs/3cJqTvA2xlA_000003_000013.mp4
+video extract success
+893
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/swinging_legs/1ED2xB6sWEQ_000009_000019.mp4
+video extract success
+894
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/swinging_legs/JsToDUFyyMQ_000032_000042.mp4
+video extract success
+895
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/swinging_legs/CV1FIe7WOdg_000015_000025.mp4
+video extract success
+896
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/swinging_legs/C_axfpqRX1w_000078_000088.mp4
+video extract success
+897
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/swinging_legs/PadxT1bDJ_Q_000002_000012.mp4
+video extract success
+898
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/swinging_legs/XpEuH9x5eFI_000116_000126.mp4
+video extract success
+899
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/swinging_legs/uWryh3p8kkY_000005_000015.mp4
+video extract success
+900
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/swinging_legs/YdFzZaRsDFE_000002_000012.mp4
+video extract success
+901
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/swinging_legs/EsBsKm0rYQI_000015_000025.mp4
+video extract success
+902
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/swinging_legs/cNNKbbKZTdU_000004_000014.mp4
+video extract success
+903
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/swinging_legs/VJNav77QGbw_000002_000012.mp4
+video extract success
+904
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/swinging_legs/f--G6zsv5h4_000007_000017.mp4
+video extract success
+905
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/swinging_legs/AFju9eIQxks_000001_000011.mp4
+video extract success
+906
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/swinging_legs/Ncj31zZ-i0g_000032_000042.mp4
+video extract success
+907
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/swinging_legs/OqQnVroFu4E_000001_000011.mp4
+video extract success
+908
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/swinging_legs/-r0D8uaD1qM_000019_000029.mp4
+video extract success
+909
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/swinging_legs/Uxxaolvhmzw_000001_000011.mp4
+video extract success
+910
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/swinging_legs/d88jkTKbLw4_000010_000020.mp4
+video extract success
+911
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/swinging_legs/59xyRNiBEv8_000008_000018.mp4
+video extract success
+912
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/swinging_legs/FJXqKOe7CGw_000011_000021.mp4
+video extract success
+913
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/swinging_legs/bzWpcAJVYH8_000003_000013.mp4
+video extract success
+914
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/swinging_legs/GHUkswWQr3s_000000_000010.mp4
+video extract success
+915
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/swinging_legs/9CqPwtz-fP8_000002_000012.mp4
+video extract success
+916
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/swinging_legs/iQoxdhDAxaE_000000_000010.mp4
+video extract success
+917
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/swinging_legs/GDN9_ugOkN4_000228_000238.mp4
+video extract success
+918
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/swinging_legs/Hqlheysvu2Y_000261_000271.mp4
+video extract success
+919
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/swinging_legs/hG_nTUcCmwU_000012_000022.mp4
+video extract success
+920
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/swinging_legs/_uCoU3uwsT8_000001_000011.mp4
+video extract success
+921
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/swinging_legs/Fan6YAHqrs0_000013_000023.mp4
+video extract success
+922
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/swinging_legs/5Otiyd6NJ2w_000017_000027.mp4
+video extract success
+923
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/swinging_legs/p3iUxxNw5Gc_000002_000012.mp4
+video extract success
+924
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/swinging_legs/ROmaS8iOdhA_000033_000043.mp4
+video extract success
+925
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/swinging_legs/B59AenQzMe4_000006_000016.mp4
+video extract success
+926
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/swinging_legs/fNafjMYwZBQ_000000_000010.mp4
+video extract success
+927
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/swinging_legs/s0v42-dlYtQ_000033_000043.mp4
+video extract success
+928
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/swinging_legs/Lc83WXbpoNw_000011_000021.mp4
+video extract success
+929
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/swinging_legs/dnLAuaMqwfk_000037_000047.mp4
+video extract success
+930
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/swinging_legs/tyTEw1_I-68_000046_000056.mp4
+video extract success
+931
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/swinging_legs/V6jE4ffhGs8_000014_000024.mp4
+video extract success
+932
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/swinging_legs/FQ69Jpc4M7w_000015_000025.mp4
+video extract success
+933
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/swinging_legs/ESrMTLvgiYc_000004_000014.mp4
+video extract success
+934
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/swinging_legs/maM5JGQJoSI_000001_000011.mp4
+video extract success
+935
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/swinging_legs/IJrwmIQqj5s_000000_000010.mp4
+video extract success
+936
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/swinging_legs/-CJCLLWB78o_000162_000172.mp4
+video extract success
+937
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/swinging_legs/Sfm51vMS580_000042_000052.mp4
+video extract success
+938
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/swinging_legs/Rv8JHHH0Yf8_000003_000013.mp4
+video extract success
+939
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/swinging_legs/ZIsEzFo6DFY_000064_000074.mp4
+video extract success
+940
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/swinging_legs/VcNloVByYFE_000002_000012.mp4
+video extract success
+941
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/swinging_legs/QgZtSJBBFgg_000007_000017.mp4
+video extract success
+942
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/swinging_legs/NXMqXH9OM28_000019_000029.mp4
+video extract success
+943
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/swinging_legs/Ejbk2abPuZM_000002_000012.mp4
+video extract success
+944
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/swinging_legs/V7FKwDeO2Qk_000030_000040.mp4
+video extract success
+945
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/swinging_legs/DhFLPbCK5Pk_000075_000085.mp4
+video extract success
+946
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/swinging_legs/tD7XwiCm98E_000014_000024.mp4
+video extract success
+947
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/swinging_legs/siloVjHlAEQ_000007_000017.mp4
+video extract success
+948
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/swinging_legs/Fg0betuY2xI_000003_000013.mp4
+video extract success
+949
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/swinging_legs/E3TyfrlPtdo_000000_000010.mp4
+video extract success
+950
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/swinging_legs/rJWE7VApR_U_000002_000012.mp4
+video extract success
+951
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/swinging_legs/jmOtz88y3_g_000000_000010.mp4
+video extract success
+952
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/swinging_legs/-m1GUW4Hcao_000004_000014.mp4
+video extract success
+953
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/swinging_legs/p7F2qXQyX3E_000000_000010.mp4
+video extract success
+954
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/swinging_legs/inOjm_Nb56Q_000010_000020.mp4
+video extract success
+955
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/swinging_legs/RRUBJOmWDE8_000000_000010.mp4
+video extract success
+956
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/swinging_legs/cEQQMqvzjZM_000025_000035.mp4
+video extract success
+957
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/swinging_legs/K-nJL-JV0ZA_000005_000015.mp4
+video extract success
+958
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/swinging_legs/V6GEbHiOH-w_000000_000010.mp4
+video extract success
+959
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/swinging_legs/ZoLpgQsMuBM_000002_000012.mp4
+video extract success
+960
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/swinging_legs/H07Y3y95fXo_000019_000029.mp4
+video extract success
+961
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/swinging_legs/kyX0Jbkfo7M_000018_000028.mp4
+video extract success
+962
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/swinging_legs/vQ8ErLnkP5I_000092_000102.mp4
+video extract success
+963
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/swinging_legs/mbV4r6kxRvc_000004_000014.mp4
+video extract success
+964
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/swinging_legs/w-F_Q1KUQfk_000010_000020.mp4
+video extract success
+965
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/swinging_legs/4Esb34jzKuc_000007_000017.mp4
+video extract success
+966
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/swinging_legs/gL6kn4oHNNU_000015_000025.mp4
+video extract success
+967
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/swinging_legs/yzgW6guetEo_000006_000016.mp4
+video extract success
+968
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/swinging_legs/Hx5GyRYYX_M_000013_000023.mp4
+video extract success
+969
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/swinging_legs/cYlaXBDLsP0_000000_000010.mp4
+video extract success
+970
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/swinging_legs/W37sbnf3FEc_000002_000012.mp4
+video extract success
+971
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/swinging_legs/yuD7h0kAenU_000012_000022.mp4
+video extract success
+972
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/swinging_legs/LhWUEm-0Nwc_000030_000040.mp4
+video extract success
+973
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/swinging_legs/cuVPgYVmNK4_000004_000014.mp4
+video extract success
+974
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/swinging_legs/i0n5CTTDaO4_000128_000138.mp4
+video extract success
+975
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/swinging_legs/wg_7dpiAlOY_000059_000069.mp4
+video extract success
+976
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/swinging_legs/dUaLVVvbSXs_000002_000012.mp4
+video extract success
+977
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/swinging_legs/qcxz37e0JBs_000035_000045.mp4
+video extract success
+978
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/swinging_legs/39962_0YD1U_000013_000023.mp4
+video extract success
+979
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/swinging_legs/UN5wLO8RGNU_000012_000022.mp4
+video extract success
+980
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/swinging_legs/EvglXU1RxQM_000001_000011.mp4
+video extract success
+981
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/swinging_legs/-lZZvkyRZws_000002_000012.mp4
+video extract success
+982
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/swinging_legs/WJNIUG8vqrw_000000_000010.mp4
+video extract success
+983
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/swinging_legs/_nJSatX8QQ0_000002_000012.mp4
+video extract success
+984
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/swinging_legs/j_ob1pIgcxw_000018_000028.mp4
+video extract success
+985
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/swinging_legs/vnxhyBiaWLo_000000_000010.mp4
+video extract success
+986
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/swinging_legs/6jrK1Lc_YXU_000000_000010.mp4
+video extract success
+987
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/swinging_legs/yT_ZtvOtl80_000002_000012.mp4
+video extract success
+988
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/swinging_legs/RJYJWjr4lVE_000046_000056.mp4
+video extract success
+989
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/swinging_legs/OWUTt2OqqNI_000028_000038.mp4
+video extract success
+990
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/swinging_legs/RMESrA8k5fs_000008_000018.mp4
+video extract success
+991
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/swinging_legs/8Ho1T2Nq4wc_000007_000017.mp4
+video extract success
+992
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/swinging_legs/Czt5D0jTiQ0_000008_000018.mp4
+video extract success
+993
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/swinging_legs/IaF-iss_8k8_000007_000017.mp4
+video extract success
+994
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/swinging_legs/1VlaNbgO5JI_000000_000010.mp4
+video extract success
+995
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/swinging_legs/mvtjTEAbQJw_000000_000010.mp4
+video extract success
+996
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/swinging_legs/ZHAVVVRBaF0_000022_000032.mp4
+video extract success
+997
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/swinging_legs/D3sfgXuLc_4_000099_000109.mp4
+video extract success
+998
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/swinging_legs/nuXvZP0dhbo_000002_000012.mp4
+video extract success
+999
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/swinging_legs/qYp1rMiJfRg_000002_000012.mp4
+video extract success
+1000
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/swinging_legs/P2ihYPZM_mQ_000004_000014.mp4
+video extract success
+1001
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/swinging_legs/c8s04tdWrVo_000001_000011.mp4
+video extract success
+1002
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/swinging_legs/cfePUi63n34_000010_000020.mp4
+video extract success
+1003
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/swinging_legs/_ADr20SXuFQ_000001_000011.mp4
+video extract success
+1004
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/swinging_legs/feJrVRAqMLw_000001_000011.mp4
+video extract success
+1005
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/swinging_legs/dDFN2pREOAI_000004_000014.mp4
+video extract success
+1006
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/swinging_legs/0Rvw3bN8sV4_000000_000010.mp4
+video extract success
+1007
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/swinging_legs/L3I74mUBCgU_000001_000011.mp4
+video extract success
+1008
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/swinging_legs/S9qVMPdwzRU_000025_000035.mp4
+video extract success
+1009
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/swinging_legs/xsrkcop2t48_000006_000016.mp4
+video extract success
+1010
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/swinging_legs/UILghTtUwDY_000029_000039.mp4
+video extract success
+1011
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/swinging_legs/2i8A7U0bFKA_000007_000017.mp4
+video extract success
+1012
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/swinging_legs/Qg8qDMzscI4_000000_000010.mp4
+video extract success
+1013
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/swinging_legs/2zXIvAoL1zA_000034_000044.mp4
+video extract success
+1014
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/swinging_legs/4G727c7ph3E_000000_000010.mp4
+video extract success
+1015
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/swinging_legs/EogYbjLRhbA_000050_000060.mp4
+video extract success
+1016
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/swinging_legs/Ay97cjc4V3U_000020_000030.mp4
+video extract success
+1017
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/swinging_legs/xkaJrmEiOwc_000005_000015.mp4
+video extract success
+1018
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/swinging_legs/w7-tPngTX1I_000012_000022.mp4
+video extract success
+1019
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/swinging_legs/oqCT1fjD-cw_000169_000179.mp4
+video extract success
+1020
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/swinging_legs/-2CSZvTHhIQ_000010_000020.mp4
+video extract success
+1021
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/swinging_legs/ujIwzAQYxEI_000002_000012.mp4
+video extract success
+1022
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/swinging_legs/EX-GvtOYi6M_000040_000050.mp4
+video extract success
+1023
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/swinging_legs/2ipU2GC_vGY_000081_000091.mp4
+video extract success
+1024
+/home/jyguan/datasets/kinetics400_from_Baiduyun/compress/train_256/swinging_legs/jVyOlwcUqws_000004_000014.mp4
